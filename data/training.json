@@ -1,0 +1,7538 @@
+[
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.8,
+      "avgScoredA": 70,
+      "avgScoredB": 83.9,
+      "avgConcededA": 83.6,
+      "avgConcededB": 77.6,
+      "avgMarginA": 3,
+      "avgMarginB": 9.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.08,
+      "combinedGap": -7.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.4,
+      "avgScoredA": 86.1,
+      "avgScoredB": 78.6,
+      "avgConcededA": 76.8,
+      "avgConcededB": 77.5,
+      "avgMarginA": 13.9,
+      "avgMarginB": 16,
+      "isHomeTeam": 1,
+      "momentumScore": 0.9,
+      "combinedGap": 19.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 78,
+      "avgScoredB": 74.2,
+      "avgConcededA": 70.1,
+      "avgConcededB": 81.4,
+      "avgMarginA": 16.7,
+      "avgMarginB": 4.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.67,
+      "combinedGap": 6.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.8,
+      "avgScoredA": 81.4,
+      "avgScoredB": 76.8,
+      "avgConcededA": 72.1,
+      "avgConcededB": 68.7,
+      "avgMarginA": 18.7,
+      "avgMarginB": 12.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.79,
+      "combinedGap": 25.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.5,
+      "avgScoredA": 89,
+      "avgScoredB": 84.2,
+      "avgConcededA": 68.7,
+      "avgConcededB": 79.9,
+      "avgMarginA": 24,
+      "avgMarginB": 20,
+      "isHomeTeam": 1,
+      "momentumScore": 1.17,
+      "combinedGap": 30.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.5,
+      "avgScoredA": 81.9,
+      "avgScoredB": 92.9,
+      "avgConcededA": 92.9,
+      "avgConcededB": 96,
+      "avgMarginA": 9,
+      "avgMarginB": 9.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -12.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 75.7,
+      "avgScoredB": 72.5,
+      "avgConcededA": 77.4,
+      "avgConcededB": 74.7,
+      "avgMarginA": 9.5,
+      "avgMarginB": 6.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 4.8
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 80,
+      "avgScoredB": 79.6,
+      "avgConcededA": 80,
+      "avgConcededB": 78.9,
+      "avgMarginA": 6.6,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.7,
+      "combinedGap": 5.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 79.1,
+      "avgScoredB": 82.2,
+      "avgConcededA": 79.2,
+      "avgConcededB": 78.9,
+      "avgMarginA": 6.8,
+      "avgMarginB": 11.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 3.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 80.9,
+      "avgScoredB": 78.8,
+      "avgConcededA": 80.9,
+      "avgConcededB": 76.8,
+      "avgMarginA": 8,
+      "avgMarginB": 11.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 8.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 82.5,
+      "avgScoredB": 84.1,
+      "avgConcededA": 80.1,
+      "avgConcededB": 84.4,
+      "avgMarginA": 16.2,
+      "avgMarginB": 20.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 6.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 81.1,
+      "avgScoredB": 81.4,
+      "avgConcededA": 82.9,
+      "avgConcededB": 83.9,
+      "avgMarginA": 5.4,
+      "avgMarginB": 5.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": -0.1
+    },
+    "output": "unknown"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.5,
+      "avgScoredA": 90.7,
+      "avgScoredB": 86.9,
+      "avgConcededA": 95.3,
+      "avgConcededB": 87.2,
+      "avgMarginA": 4,
+      "avgMarginB": 13.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.19,
+      "combinedGap": 4.3
+    },
+    "output": "unknown"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.7,
+      "avgScoredA": 85.2,
+      "avgScoredB": 88.2,
+      "avgConcededA": 95.8,
+      "avgConcededB": 80.1,
+      "avgMarginA": 14.5,
+      "avgMarginB": 15.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": 8
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.7,
+      "avgScoredA": 87.4,
+      "avgScoredB": 91.4,
+      "avgConcededA": 81.3,
+      "avgConcededB": 80.7,
+      "avgMarginA": 15.8,
+      "avgMarginB": 20.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.65,
+      "combinedGap": 16.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.3,
+      "avgScoredA": 85.8,
+      "avgScoredB": 85.3,
+      "avgConcededA": 84,
+      "avgConcededB": 92.4,
+      "avgMarginA": 9.1,
+      "avgMarginB": 8.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.71,
+      "combinedGap": -0.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 80.8,
+      "avgScoredB": 82.1,
+      "avgConcededA": 78.2,
+      "avgConcededB": 85.6,
+      "avgMarginA": 15,
+      "avgMarginB": 13.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 4.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 81,
+      "avgScoredB": 77.4,
+      "avgConcededA": 73.7,
+      "avgConcededB": 74.8,
+      "avgMarginA": 12.1,
+      "avgMarginB": 14.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.77,
+      "combinedGap": 14.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 76.9,
+      "avgScoredB": 81.8,
+      "avgConcededA": 77.3,
+      "avgConcededB": 84.1,
+      "avgMarginA": 8.4,
+      "avgMarginB": 6.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": -3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.2,
+      "avgScoredA": 87.1,
+      "avgScoredB": 77.6,
+      "avgConcededA": 77.9,
+      "avgConcededB": 89.6,
+      "avgMarginA": 14.1,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0.89,
+      "combinedGap": 8.8
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 111.4,
+      "avgScoredB": 108.8,
+      "avgConcededA": 112.3,
+      "avgConcededB": 117.1,
+      "avgMarginA": 12.8,
+      "avgMarginB": 9.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.4,
+      "combinedGap": -0.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.8,
+      "avgScoredA": 79.5,
+      "avgScoredB": 85.6,
+      "avgConcededA": 75.7,
+      "avgConcededB": 74.8,
+      "avgMarginA": 22.5,
+      "avgMarginB": 17,
+      "isHomeTeam": 1,
+      "momentumScore": 0.42,
+      "combinedGap": 13.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 85.8,
+      "avgScoredB": 79.2,
+      "avgConcededA": 85.2,
+      "avgConcededB": 80.4,
+      "avgMarginA": 12,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 11.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.1,
+      "avgScoredA": 85.6,
+      "avgScoredB": 87.9,
+      "avgConcededA": 84.6,
+      "avgConcededB": 99.2,
+      "avgMarginA": 8.3,
+      "avgMarginB": 6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": -8.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 118.5,
+      "avgScoredB": 117.8,
+      "avgConcededA": 115.9,
+      "avgConcededB": 106,
+      "avgMarginA": 16,
+      "avgMarginB": 25,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 22.1
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 80.5,
+      "avgScoredB": 77.6,
+      "avgConcededA": 80,
+      "avgConcededB": 80.2,
+      "avgMarginA": 7,
+      "avgMarginB": 14.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.7,
+      "combinedGap": 5.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.6,
+      "avgScoredA": 80.3,
+      "avgScoredB": 83.7,
+      "avgConcededA": 88.1,
+      "avgConcededB": 77.8,
+      "avgMarginA": 6,
+      "avgMarginB": 13.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": 4.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 82.1,
+      "avgScoredB": 73.5,
+      "avgConcededA": 74.4,
+      "avgConcededB": 71.3,
+      "avgMarginA": 12.3,
+      "avgMarginB": 11.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.88,
+      "combinedGap": 20.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.8,
+      "avgScoredA": 81.6,
+      "avgScoredB": 86.4,
+      "avgConcededA": 82.4,
+      "avgConcededB": 78.8,
+      "avgMarginA": 7.6,
+      "avgMarginB": 10.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 6.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.5,
+      "avgScoredA": 80.2,
+      "avgScoredB": 76.5,
+      "avgConcededA": 69.3,
+      "avgConcededB": 75.8,
+      "avgMarginA": 13,
+      "avgMarginB": 6.4,
+      "isHomeTeam": 1,
+      "momentumScore": 1.04,
+      "combinedGap": 16.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.5,
+      "avgScoredA": 82.2,
+      "avgScoredB": 80.2,
+      "avgConcededA": 95.4,
+      "avgConcededB": 81.1,
+      "avgMarginA": 20,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.09,
+      "combinedGap": 3.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.2,
+      "avgScoredA": 80.2,
+      "avgScoredB": 82.6,
+      "avgConcededA": 83.6,
+      "avgConcededB": 91,
+      "avgMarginA": 6.8,
+      "avgMarginB": 15.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": -7.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 76.9,
+      "avgScoredB": 77.3,
+      "avgConcededA": 72.7,
+      "avgConcededB": 82.2,
+      "avgMarginA": 13,
+      "avgMarginB": 7.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.63,
+      "combinedGap": 2.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.5,
+      "avgScoredA": 90.7,
+      "avgScoredB": 80.7,
+      "avgConcededA": 78.5,
+      "avgConcededB": 80.2,
+      "avgMarginA": 16.8,
+      "avgMarginB": 11.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.92,
+      "combinedGap": 23.9
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.1,
+      "avgScoredA": 87.1,
+      "avgScoredB": 69.9,
+      "avgConcededA": 78.9,
+      "avgConcededB": 87.4,
+      "avgMarginA": 9.7,
+      "avgMarginB": 8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.99,
+      "combinedGap": 8.4
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 81.1,
+      "avgScoredB": 76.3,
+      "avgConcededA": 75.5,
+      "avgConcededB": 85.9,
+      "avgMarginA": 14.3,
+      "avgMarginB": 14.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 3.8
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.4,
+      "avgScoredA": 75.3,
+      "avgScoredB": 80.8,
+      "avgConcededA": 85.5,
+      "avgConcededB": 82,
+      "avgMarginA": 13,
+      "avgMarginB": 12.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -4.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 80.1,
+      "avgScoredB": 73.6,
+      "avgConcededA": 76.7,
+      "avgConcededB": 82.6,
+      "avgMarginA": 15.4,
+      "avgMarginB": 7.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 5.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 86.7,
+      "avgScoredB": 83.2,
+      "avgConcededA": 80.8,
+      "avgConcededB": 89.1,
+      "avgMarginA": 12.2,
+      "avgMarginB": 8.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 4.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 81.2,
+      "avgScoredB": 88.4,
+      "avgConcededA": 80.9,
+      "avgConcededB": 84.5,
+      "avgMarginA": 14.4,
+      "avgMarginB": 9.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 3.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 87.6,
+      "avgScoredB": 90,
+      "avgConcededA": 84.5,
+      "avgConcededB": 91,
+      "avgMarginA": 9.7,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 2.4
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.9,
+      "avgScoredA": 80.7,
+      "avgScoredB": 95.5,
+      "avgConcededA": 85.7,
+      "avgConcededB": 79.3,
+      "avgMarginA": 21,
+      "avgMarginB": 18.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 7.7
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.5,
+      "avgScoredA": 81.2,
+      "avgScoredB": 89.4,
+      "avgConcededA": 89.5,
+      "avgConcededB": 86.3,
+      "avgMarginA": 5,
+      "avgMarginB": 12.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -4.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.5,
+      "avgScoredA": 97.5,
+      "avgScoredB": 83.2,
+      "avgConcededA": 84.4,
+      "avgConcededB": 85.4,
+      "avgMarginA": 18.1,
+      "avgMarginB": 10.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.92,
+      "combinedGap": 26.6
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 80.1,
+      "avgScoredB": 85.5,
+      "avgConcededA": 82.9,
+      "avgConcededB": 82.9,
+      "avgMarginA": 13.3,
+      "avgMarginB": 10.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 2.5
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 89.3,
+      "avgScoredB": 79.7,
+      "avgConcededA": 83.7,
+      "avgConcededB": 83.8,
+      "avgMarginA": 15.3,
+      "avgMarginB": 6.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 14.7
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 84.5,
+      "avgScoredB": 83.3,
+      "avgConcededA": 84.4,
+      "avgConcededB": 78.9,
+      "avgMarginA": 17.8,
+      "avgMarginB": 19.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.4,
+      "combinedGap": 12.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.3,
+      "avgScoredA": 82.4,
+      "avgScoredB": 79,
+      "avgConcededA": 84.8,
+      "avgConcededB": 88.4,
+      "avgMarginA": 13.3,
+      "avgMarginB": 17.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.29,
+      "combinedGap": -2
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.2,
+      "avgScoredA": 81.1,
+      "avgScoredB": 70.8,
+      "avgConcededA": 91.5,
+      "avgConcededB": 80.2,
+      "avgMarginA": 19,
+      "avgMarginB": 21.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.09,
+      "combinedGap": 2.8
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.6,
+      "avgScoredA": 73.3,
+      "avgScoredB": 82.8,
+      "avgConcededA": 80.8,
+      "avgConcededB": 79.7,
+      "avgMarginA": 8.3,
+      "avgMarginB": 12.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": -3.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.8,
+      "avgScoredA": 89.7,
+      "avgScoredB": 89,
+      "avgConcededA": 84.7,
+      "avgConcededB": 76.2,
+      "avgMarginA": 12.3,
+      "avgMarginB": 18.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.74,
+      "combinedGap": 22.1
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 79.1,
+      "avgScoredB": 77.8,
+      "avgConcededA": 77.8,
+      "avgConcededB": 70.5,
+      "avgMarginA": 17.3,
+      "avgMarginB": 18.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.41,
+      "combinedGap": 15.5
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 93.9,
+      "avgScoredB": 103.1,
+      "avgConcededA": 93.5,
+      "avgConcededB": 95.5,
+      "avgMarginA": 13,
+      "avgMarginB": 17,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 4.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.5,
+      "avgScoredA": 102.8,
+      "avgScoredB": 85.2,
+      "avgConcededA": 89.8,
+      "avgConcededB": 88.9,
+      "avgMarginA": 20.1,
+      "avgMarginB": 5.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.92,
+      "combinedGap": 30
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.3,
+      "avgScoredA": 112.8,
+      "avgScoredB": 92.7,
+      "avgConcededA": 103.3,
+      "avgConcededB": 95.3,
+      "avgMarginA": 15.1,
+      "avgMarginB": 10.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.87,
+      "combinedGap": 29.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 76.6,
+      "avgScoredB": 74.4,
+      "avgConcededA": 81.7,
+      "avgConcededB": 82.1,
+      "avgMarginA": 9.3,
+      "avgMarginB": 10,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": -1.8
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.3,
+      "avgScoredA": 88.4,
+      "avgScoredB": 82.2,
+      "avgConcededA": 94.8,
+      "avgConcededB": 95.1,
+      "avgMarginA": 18,
+      "avgMarginB": 6.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.19,
+      "combinedGap": -3.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 80.5,
+      "avgScoredB": 90.4,
+      "avgConcededA": 85.5,
+      "avgConcededB": 96.2,
+      "avgMarginA": 14.8,
+      "avgMarginB": 16,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": -9.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.7,
+      "avgScoredA": 87,
+      "avgScoredB": 99.1,
+      "avgConcededA": 100.2,
+      "avgConcededB": 94.8,
+      "avgMarginA": 10.5,
+      "avgMarginB": 10.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.17,
+      "combinedGap": -5.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 90.5,
+      "avgScoredB": 79.5,
+      "avgConcededA": 92.1,
+      "avgConcededB": 83.6,
+      "avgMarginA": 17.5,
+      "avgMarginB": 16.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 13.9
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.8,
+      "avgScoredA": 96.8,
+      "avgScoredB": 86.9,
+      "avgConcededA": 93.2,
+      "avgConcededB": 81.5,
+      "avgMarginA": 13.8,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 23.6
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.6,
+      "avgScoredA": 73.8,
+      "avgScoredB": 76.1,
+      "avgConcededA": 80.6,
+      "avgConcededB": 78.7,
+      "avgMarginA": 18.5,
+      "avgMarginB": 9.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -1.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 87.9,
+      "avgScoredB": 74.6,
+      "avgConcededA": 80,
+      "avgConcededB": 86.5,
+      "avgMarginA": 13.4,
+      "avgMarginB": 10.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.77,
+      "combinedGap": 10.8
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 79.2,
+      "avgScoredB": 82.2,
+      "avgConcededA": 84.2,
+      "avgConcededB": 79.6,
+      "avgMarginA": 13.4,
+      "avgMarginB": 16,
+      "isHomeTeam": 1,
+      "momentumScore": 0.47,
+      "combinedGap": 6.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.9,
+      "avgScoredA": 77.7,
+      "avgScoredB": 89.4,
+      "avgConcededA": 75,
+      "avgConcededB": 67.9,
+      "avgMarginA": 8.4,
+      "avgMarginB": 24.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.73,
+      "combinedGap": 15.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.1,
+      "avgScoredA": 80.8,
+      "avgScoredB": 73.6,
+      "avgConcededA": 73.8,
+      "avgConcededB": 83.9,
+      "avgMarginA": 14.9,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.77,
+      "combinedGap": 7.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 81.8,
+      "avgScoredB": 75.8,
+      "avgConcededA": 75.3,
+      "avgConcededB": 76.2,
+      "avgMarginA": 13.3,
+      "avgMarginB": 11.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": 14.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 84.9,
+      "avgScoredB": 85.9,
+      "avgConcededA": 83.4,
+      "avgConcededB": 85.5,
+      "avgMarginA": 9.6,
+      "avgMarginB": 13.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.71,
+      "combinedGap": 6.1
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 90.4,
+      "avgScoredB": 80.2,
+      "avgConcededA": 89.7,
+      "avgConcededB": 88.7,
+      "avgMarginA": 18.5,
+      "avgMarginB": 10.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.4,
+      "combinedGap": 9.1
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 86,
+      "avgScoredB": 77.6,
+      "avgConcededA": 84.9,
+      "avgConcededB": 74.5,
+      "avgMarginA": 8.3,
+      "avgMarginB": 7.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 16.5
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.2,
+      "avgScoredA": 69.5,
+      "avgScoredB": 77.1,
+      "avgConcededA": 84.3,
+      "avgConcededB": 83.6,
+      "avgMarginA": 2,
+      "avgMarginB": 3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.08,
+      "combinedGap": -13.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 81.4,
+      "avgScoredB": 82.5,
+      "avgConcededA": 82.3,
+      "avgConcededB": 79.7,
+      "avgMarginA": 8.2,
+      "avgMarginB": 9.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 5.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.6,
+      "avgScoredA": 76.5,
+      "avgScoredB": 82.9,
+      "avgConcededA": 83.1,
+      "avgConcededB": 79.8,
+      "avgMarginA": 8.5,
+      "avgMarginB": 11.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -1.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 88.4,
+      "avgScoredB": 78,
+      "avgConcededA": 86.7,
+      "avgConcededB": 70.2,
+      "avgMarginA": 11.8,
+      "avgMarginB": 18.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 24.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.9,
+      "avgScoredA": 83.6,
+      "avgScoredB": 86.8,
+      "avgConcededA": 74.7,
+      "avgConcededB": 71.5,
+      "avgMarginA": 12.1,
+      "avgMarginB": 18.4,
+      "isHomeTeam": 1,
+      "momentumScore": 1.01,
+      "combinedGap": 23
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 87.8,
+      "avgScoredB": 75.2,
+      "avgConcededA": 80.8,
+      "avgConcededB": 84.4,
+      "avgMarginA": 15,
+      "avgMarginB": 10,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": 13.9
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.3,
+      "avgScoredA": 82.8,
+      "avgScoredB": 78.8,
+      "avgConcededA": 80.8,
+      "avgConcededB": 81.6,
+      "avgMarginA": 13.2,
+      "avgMarginB": 9.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 7.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 78.6,
+      "avgScoredB": 80.7,
+      "avgConcededA": 80,
+      "avgConcededB": 75.2,
+      "avgMarginA": 10,
+      "avgMarginB": 11.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 8.4
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 93.8,
+      "avgScoredB": 77.3,
+      "avgConcededA": 85.9,
+      "avgConcededB": 79.6,
+      "avgMarginA": 17.8,
+      "avgMarginB": 8.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.66,
+      "combinedGap": 24.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 1,
+      "avgScoredA": 85.4,
+      "avgScoredB": 89.7,
+      "avgConcededA": 87.7,
+      "avgConcededB": 72.2,
+      "avgMarginA": 10.8,
+      "avgMarginB": 17.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 17.5
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 85.5,
+      "avgScoredB": 83.2,
+      "avgConcededA": 86.2,
+      "avgConcededB": 74.5,
+      "avgMarginA": 8.2,
+      "avgMarginB": 13.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 15.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 80.1,
+      "avgScoredB": 87.9,
+      "avgConcededA": 76.1,
+      "avgConcededB": 95.5,
+      "avgMarginA": 11.1,
+      "avgMarginB": 18,
+      "isHomeTeam": 1,
+      "momentumScore": 0.74,
+      "combinedGap": -7.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.9,
+      "avgScoredA": 83,
+      "avgScoredB": 85,
+      "avgConcededA": 83,
+      "avgConcededB": 75.7,
+      "avgMarginA": 25.7,
+      "avgMarginB": 10.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.3,
+      "combinedGap": 15
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.6,
+      "avgScoredA": 92.5,
+      "avgScoredB": 79.5,
+      "avgConcededA": 81.1,
+      "avgConcededB": 81.9,
+      "avgMarginA": 21,
+      "avgMarginB": 6.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.8,
+      "combinedGap": 25.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.7,
+      "avgScoredA": 74.8,
+      "avgScoredB": 86.4,
+      "avgConcededA": 98,
+      "avgConcededB": 82.1,
+      "avgMarginA": 4,
+      "avgMarginB": 12.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.08,
+      "combinedGap": -6.9
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.5,
+      "avgScoredA": 76.8,
+      "avgScoredB": 79.2,
+      "avgConcededA": 92.2,
+      "avgConcededB": 79.2,
+      "avgMarginA": 0,
+      "avgMarginB": 16,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": -2.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 80.4,
+      "avgScoredB": 83.5,
+      "avgConcededA": 82.4,
+      "avgConcededB": 80.9,
+      "avgMarginA": 17,
+      "avgMarginB": 6.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 6.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.5,
+      "avgScoredA": 82.6,
+      "avgScoredB": 79.8,
+      "avgConcededA": 90.1,
+      "avgConcededB": 79,
+      "avgMarginA": 6,
+      "avgMarginB": 11.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 5.4
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.6,
+      "avgScoredA": 92.2,
+      "avgScoredB": 82.2,
+      "avgConcededA": 84.2,
+      "avgConcededB": 81.2,
+      "avgMarginA": 9.9,
+      "avgMarginB": 10.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.99,
+      "combinedGap": 19.9
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.7,
+      "avgScoredA": 92.8,
+      "avgScoredB": 90.3,
+      "avgConcededA": 81.5,
+      "avgConcededB": 88,
+      "avgMarginA": 14.6,
+      "avgMarginB": 8.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.91,
+      "combinedGap": 16.5
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 89,
+      "avgScoredB": 82.7,
+      "avgConcededA": 85.5,
+      "avgConcededB": 78.8,
+      "avgMarginA": 6.5,
+      "avgMarginB": 10.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.83,
+      "combinedGap": 15.4
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 75.4,
+      "avgScoredB": 80.5,
+      "avgConcededA": 76.1,
+      "avgConcededB": 74.7,
+      "avgMarginA": 8.2,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 4.8
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 75.9,
+      "avgScoredB": 78.5,
+      "avgConcededA": 80.1,
+      "avgConcededB": 82.6,
+      "avgMarginA": 11,
+      "avgMarginB": 8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": -2.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 79.7,
+      "avgScoredB": 80.9,
+      "avgConcededA": 77.8,
+      "avgConcededB": 78.1,
+      "avgMarginA": 10.8,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 75.9,
+      "avgScoredB": 75,
+      "avgConcededA": 78.9,
+      "avgConcededB": 77,
+      "avgMarginA": 6.8,
+      "avgMarginB": 9.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": 1.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 76.8,
+      "avgScoredB": 79.1,
+      "avgConcededA": 77.6,
+      "avgConcededB": 80,
+      "avgMarginA": 16,
+      "avgMarginB": 13.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.3,
+      "combinedGap": 1.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 77,
+      "avgScoredB": 80.8,
+      "avgConcededA": 80.7,
+      "avgConcededB": 82,
+      "avgMarginA": 7.8,
+      "avgMarginB": 12.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": -1.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 99.4,
+      "avgScoredB": 96.1,
+      "avgConcededA": 95.6,
+      "avgConcededB": 94.3,
+      "avgMarginA": 14.8,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 12.5
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 82,
+      "avgScoredB": 77,
+      "avgConcededA": 75.9,
+      "avgConcededB": 87.3,
+      "avgMarginA": 14.1,
+      "avgMarginB": 6.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": 4.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.6,
+      "avgScoredA": 86.5,
+      "avgScoredB": 89,
+      "avgConcededA": 77.3,
+      "avgConcededB": 81.5,
+      "avgMarginA": 20.6,
+      "avgMarginB": 19,
+      "isHomeTeam": 1,
+      "momentumScore": 0.78,
+      "combinedGap": 19.4
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 71.6,
+      "avgScoredB": 81.9,
+      "avgConcededA": 76.7,
+      "avgConcededB": 83.5,
+      "avgMarginA": 5.4,
+      "avgMarginB": 7.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.47,
+      "combinedGap": -9.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.8,
+      "avgScoredA": 77.7,
+      "avgScoredB": 85.5,
+      "avgConcededA": 83.6,
+      "avgConcededB": 76.9,
+      "avgMarginA": 19,
+      "avgMarginB": 12.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.19,
+      "combinedGap": 4.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.8,
+      "avgScoredA": 80.9,
+      "avgScoredB": 93.4,
+      "avgConcededA": 94.3,
+      "avgConcededB": 79.6,
+      "avgMarginA": 4,
+      "avgMarginB": 19.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.09,
+      "combinedGap": 1.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.3,
+      "avgScoredA": 85.4,
+      "avgScoredB": 78.9,
+      "avgConcededA": 84.8,
+      "avgConcededB": 86.9,
+      "avgMarginA": 16,
+      "avgMarginB": 10,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 6.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.6,
+      "avgScoredA": 80.9,
+      "avgScoredB": 86.4,
+      "avgConcededA": 84.4,
+      "avgConcededB": 86.7,
+      "avgMarginA": 6,
+      "avgMarginB": 7.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.19,
+      "combinedGap": -4.6
+    },
+    "output": "unknown"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 88.6,
+      "avgScoredB": 88.2,
+      "avgConcededA": 85.5,
+      "avgConcededB": 87.5,
+      "avgMarginA": 11.2,
+      "avgMarginB": 6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 6.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.3,
+      "avgScoredA": 92.3,
+      "avgScoredB": 90,
+      "avgConcededA": 81.8,
+      "avgConcededB": 94.5,
+      "avgMarginA": 16,
+      "avgMarginB": 14.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.9,
+      "combinedGap": 10.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.4,
+      "avgScoredA": 74.7,
+      "avgScoredB": 85.8,
+      "avgConcededA": 91,
+      "avgConcededB": 85.8,
+      "avgMarginA": 0,
+      "avgMarginB": 23.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": -11.1
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 83.6,
+      "avgScoredB": 84.5,
+      "avgConcededA": 71,
+      "avgConcededB": 92.1,
+      "avgMarginA": 23,
+      "avgMarginB": 15,
+      "isHomeTeam": 1,
+      "momentumScore": 0.82,
+      "combinedGap": 7.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.5,
+      "avgScoredA": 84,
+      "avgScoredB": 80,
+      "avgConcededA": 91.9,
+      "avgConcededB": 83.8,
+      "avgMarginA": 9,
+      "avgMarginB": 11.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": 2.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.7,
+      "avgScoredA": 75.4,
+      "avgScoredB": 94.9,
+      "avgConcededA": 89.6,
+      "avgConcededB": 88.6,
+      "avgMarginA": 2.5,
+      "avgMarginB": 12.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.17,
+      "combinedGap": -12.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.3,
+      "avgScoredA": 84.7,
+      "avgScoredB": 82,
+      "avgConcededA": 82.5,
+      "avgConcededB": 85.9,
+      "avgMarginA": 6.3,
+      "avgMarginB": 6.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.72,
+      "combinedGap": 3.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 80,
+      "avgScoredB": 79.6,
+      "avgConcededA": 80,
+      "avgConcededB": 78.9,
+      "avgMarginA": 6.6,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.7,
+      "combinedGap": 5.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 83.3,
+      "avgScoredB": 84,
+      "avgConcededA": 79.3,
+      "avgConcededB": 85.8,
+      "avgMarginA": 14.6,
+      "avgMarginB": 7.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.74,
+      "combinedGap": 7.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.5,
+      "avgScoredA": 83.9,
+      "avgScoredB": 87.6,
+      "avgConcededA": 83.1,
+      "avgConcededB": 89.1,
+      "avgMarginA": 20.3,
+      "avgMarginB": 11.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.3,
+      "combinedGap": 0.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.3,
+      "avgScoredA": 76,
+      "avgScoredB": 82.5,
+      "avgConcededA": 83.6,
+      "avgConcededB": 89.7,
+      "avgMarginA": 9,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -11.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 81.5,
+      "avgScoredB": 79.4,
+      "avgConcededA": 86.8,
+      "avgConcededB": 81.2,
+      "avgMarginA": 6.8,
+      "avgMarginB": 14.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.47,
+      "combinedGap": 3.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.7,
+      "avgScoredA": 90.5,
+      "avgScoredB": 80.5,
+      "avgConcededA": 81.1,
+      "avgConcededB": 68.9,
+      "avgMarginA": 16.4,
+      "avgMarginB": 19,
+      "isHomeTeam": 1,
+      "momentumScore": 1,
+      "combinedGap": 36.4
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.6,
+      "avgScoredA": 76.8,
+      "avgScoredB": 83.3,
+      "avgConcededA": 73.4,
+      "avgConcededB": 80.3,
+      "avgMarginA": 10.3,
+      "avgMarginB": 12.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.73,
+      "combinedGap": 3.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.5,
+      "avgScoredA": 71.3,
+      "avgScoredB": 73.9,
+      "avgConcededA": 76.9,
+      "avgConcededB": 75.7,
+      "avgMarginA": 15.7,
+      "avgMarginB": 8.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 0.3
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.8,
+      "avgScoredA": 73.8,
+      "avgScoredB": 79.5,
+      "avgConcededA": 74.5,
+      "avgConcededB": 71.4,
+      "avgMarginA": 14.5,
+      "avgMarginB": 12.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.4,
+      "combinedGap": 8.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.7,
+      "avgScoredA": 69.3,
+      "avgScoredB": 82.8,
+      "avgConcededA": 82.2,
+      "avgConcededB": 76.5,
+      "avgMarginA": 6,
+      "avgMarginB": 14,
+      "isHomeTeam": 1,
+      "momentumScore": 0.08,
+      "combinedGap": -6.6
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.6,
+      "avgScoredA": 80.2,
+      "avgScoredB": 85.7,
+      "avgConcededA": 69.7,
+      "avgConcededB": 82.7,
+      "avgMarginA": 12,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 1.04,
+      "combinedGap": 8.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 95.5,
+      "avgScoredB": 86.7,
+      "avgConcededA": 80.9,
+      "avgConcededB": 86.7,
+      "avgMarginA": 23.5,
+      "avgMarginB": 15.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.94,
+      "combinedGap": 27.6
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 85.8,
+      "avgScoredB": 79.2,
+      "avgConcededA": 85.2,
+      "avgConcededB": 80.4,
+      "avgMarginA": 12,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 11.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 77.6,
+      "avgScoredB": 72.5,
+      "avgConcededA": 71.5,
+      "avgConcededB": 74,
+      "avgMarginA": 12.8,
+      "avgMarginB": 3.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.65,
+      "combinedGap": 11.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0,
+      "avgScoredA": 85.5,
+      "avgScoredB": 64.9,
+      "avgConcededA": 70.5,
+      "avgConcededB": 78.5,
+      "avgMarginA": 20.9,
+      "avgMarginB": 0,
+      "isHomeTeam": 1,
+      "momentumScore": 0.97,
+      "combinedGap": 23.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.5,
+      "avgScoredA": 82.8,
+      "avgScoredB": 80,
+      "avgConcededA": 80.3,
+      "avgConcededB": 86.4,
+      "avgMarginA": 12.7,
+      "avgMarginB": 8.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.6,
+      "avgScoredA": 71.8,
+      "avgScoredB": 79.3,
+      "avgConcededA": 87.9,
+      "avgConcededB": 78.9,
+      "avgMarginA": 6,
+      "avgMarginB": 11.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.08,
+      "combinedGap": -6.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.7,
+      "avgScoredA": 59.8,
+      "avgScoredB": 75.5,
+      "avgConcededA": 79.3,
+      "avgConcededB": 73.5,
+      "avgMarginA": 0,
+      "avgMarginB": 7.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": -13.75
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 67.4,
+      "avgScoredB": 70,
+      "avgConcededA": 70.6,
+      "avgConcededB": 73.8,
+      "avgMarginA": 10.2,
+      "avgMarginB": 6.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": -1.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.3,
+      "avgScoredA": 81.9,
+      "avgScoredB": 79.4,
+      "avgConcededA": 75.3,
+      "avgConcededB": 82.2,
+      "avgMarginA": 8.9,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.98,
+      "combinedGap": 7.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.5,
+      "avgScoredA": 89.2,
+      "avgScoredB": 86.2,
+      "avgConcededA": 83,
+      "avgConcededB": 86.3,
+      "avgMarginA": 7.8,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.97,
+      "combinedGap": 9.9
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 109.5,
+      "avgScoredB": 102.2,
+      "avgConcededA": 106.1,
+      "avgConcededB": 97.5,
+      "avgMarginA": 13.2,
+      "avgMarginB": 9.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 18.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 91,
+      "avgScoredB": 80.7,
+      "avgConcededA": 76.3,
+      "avgConcededB": 80,
+      "avgMarginA": 24.7,
+      "avgMarginB": 18.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.83,
+      "combinedGap": 28.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0,
+      "avgScoredA": 84.5,
+      "avgScoredB": 76.5,
+      "avgConcededA": 82.7,
+      "avgConcededB": 102.5,
+      "avgMarginA": 14.8,
+      "avgMarginB": 0,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": -10.6
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.7,
+      "avgScoredA": 104.7,
+      "avgScoredB": 104.7,
+      "avgConcededA": 98,
+      "avgConcededB": 98,
+      "avgMarginA": 15.6,
+      "avgMarginB": 14.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.75,
+      "combinedGap": 17.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.9,
+      "avgScoredA": 97.4,
+      "avgScoredB": 112.7,
+      "avgConcededA": 102.8,
+      "avgConcededB": 97.6,
+      "avgMarginA": 10.2,
+      "avgMarginB": 17.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.47,
+      "combinedGap": 4.9
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 94,
+      "avgScoredB": 75.3,
+      "avgConcededA": 86.2,
+      "avgConcededB": 83.4,
+      "avgMarginA": 16.2,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.65,
+      "combinedGap": 20.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.2,
+      "avgScoredA": 85.4,
+      "avgScoredB": 76,
+      "avgConcededA": 86.9,
+      "avgConcededB": 86.6,
+      "avgMarginA": 8,
+      "avgMarginB": 9.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.59,
+      "combinedGap": 3.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.3,
+      "avgScoredA": 78.6,
+      "avgScoredB": 78.7,
+      "avgConcededA": 81.3,
+      "avgConcededB": 85.5,
+      "avgMarginA": 8.2,
+      "avgMarginB": 12.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": -2.8
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.6,
+      "avgScoredA": 75.8,
+      "avgScoredB": 82.7,
+      "avgConcededA": 81.1,
+      "avgConcededB": 82.6,
+      "avgMarginA": 7,
+      "avgMarginB": 11.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": -4.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.2,
+      "avgScoredA": 85.2,
+      "avgScoredB": 79.1,
+      "avgConcededA": 82.4,
+      "avgConcededB": 88.8,
+      "avgMarginA": 9.5,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 2.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.6,
+      "avgScoredA": 73.7,
+      "avgScoredB": 80.8,
+      "avgConcededA": 88.5,
+      "avgConcededB": 73.5,
+      "avgMarginA": 4,
+      "avgMarginB": 21.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.08,
+      "combinedGap": 0.6
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 77.7,
+      "avgScoredB": 84.7,
+      "avgConcededA": 81,
+      "avgConcededB": 89.5,
+      "avgMarginA": 9.8,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": -6.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.7,
+      "avgScoredA": 93.1,
+      "avgScoredB": 89.8,
+      "avgConcededA": 83.2,
+      "avgConcededB": 81.7,
+      "avgMarginA": 20.2,
+      "avgMarginB": 14.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.67,
+      "combinedGap": 23.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.5,
+      "avgScoredA": 80.4,
+      "avgScoredB": 85.1,
+      "avgConcededA": 87.1,
+      "avgConcededB": 81.4,
+      "avgMarginA": 3,
+      "avgMarginB": 15.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": -0.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 85.6,
+      "avgScoredB": 84.1,
+      "avgConcededA": 85.9,
+      "avgConcededB": 79.4,
+      "avgMarginA": 13.5,
+      "avgMarginB": 10.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": 14.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.5,
+      "avgScoredA": 86.6,
+      "avgScoredB": 81.9,
+      "avgConcededA": 94.8,
+      "avgConcededB": 81,
+      "avgMarginA": 7.8,
+      "avgMarginB": 10,
+      "isHomeTeam": 1,
+      "momentumScore": 0.37,
+      "combinedGap": 8.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 76.1,
+      "avgScoredB": 89.3,
+      "avgConcededA": 81.7,
+      "avgConcededB": 88.5,
+      "avgMarginA": 12.2,
+      "avgMarginB": 8.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.47,
+      "combinedGap": -6.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.8,
+      "avgScoredA": 81.3,
+      "avgScoredB": 90.5,
+      "avgConcededA": 81.6,
+      "avgConcededB": 86.8,
+      "avgMarginA": 18,
+      "avgMarginB": 8.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.3,
+      "combinedGap": -0.1
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.5,
+      "avgScoredA": 90.8,
+      "avgScoredB": 81.3,
+      "avgConcededA": 87.4,
+      "avgConcededB": 86.7,
+      "avgMarginA": 6.4,
+      "avgMarginB": 5.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.83,
+      "combinedGap": 9.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 76.4,
+      "avgScoredB": 83.7,
+      "avgConcededA": 81.7,
+      "avgConcededB": 83.2,
+      "avgMarginA": 11.3,
+      "avgMarginB": 11.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": -3.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.3,
+      "avgScoredA": 78.4,
+      "avgScoredB": 72.4,
+      "avgConcededA": 93.2,
+      "avgConcededB": 77.6,
+      "avgMarginA": 0,
+      "avgMarginB": 10.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": 0.8
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 74,
+      "avgScoredB": 82.2,
+      "avgConcededA": 79.7,
+      "avgConcededB": 76.6,
+      "avgMarginA": 5.3,
+      "avgMarginB": 10.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": -1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.5,
+      "avgScoredA": 77.9,
+      "avgScoredB": 75.8,
+      "avgConcededA": 79.8,
+      "avgConcededB": 79.8,
+      "avgMarginA": 8,
+      "avgMarginB": 7.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 1.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.8,
+      "avgScoredA": 81.2,
+      "avgScoredB": 85.4,
+      "avgConcededA": 81.6,
+      "avgConcededB": 73.5,
+      "avgMarginA": 9.8,
+      "avgMarginB": 15.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": 13.6
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 75.7,
+      "avgScoredB": 84.5,
+      "avgConcededA": 71.4,
+      "avgConcededB": 77.7,
+      "avgMarginA": 11.7,
+      "avgMarginB": 16.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 5
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.8,
+      "avgScoredA": 74.9,
+      "avgScoredB": 86,
+      "avgConcededA": 82.6,
+      "avgConcededB": 75.8,
+      "avgMarginA": 9,
+      "avgMarginB": 14.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": 1.8
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 82.8,
+      "avgScoredB": 87.1,
+      "avgConcededA": 82.8,
+      "avgConcededB": 84.6,
+      "avgMarginA": 7.5,
+      "avgMarginB": 11.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": 2.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.2,
+      "avgScoredA": 81.1,
+      "avgScoredB": 84.7,
+      "avgConcededA": 92.3,
+      "avgConcededB": 90.9,
+      "avgMarginA": 8.3,
+      "avgMarginB": 27.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.35,
+      "combinedGap": -6.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 84.1,
+      "avgScoredB": 84.8,
+      "avgConcededA": 81.1,
+      "avgConcededB": 86,
+      "avgMarginA": 8.3,
+      "avgMarginB": 4.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.73,
+      "combinedGap": 3.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0,
+      "avgScoredA": 87.3,
+      "avgScoredB": 78.1,
+      "avgConcededA": 86.7,
+      "avgConcededB": 97.1,
+      "avgMarginA": 12,
+      "avgMarginB": 0,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": -2.6
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.8,
+      "avgScoredA": 85.4,
+      "avgScoredB": 85.6,
+      "avgConcededA": 78.6,
+      "avgConcededB": 73.4,
+      "avgMarginA": 18.7,
+      "avgMarginB": 15.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.65,
+      "combinedGap": 23.2
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.2,
+      "avgScoredA": 81.8,
+      "avgScoredB": 79.1,
+      "avgConcededA": 90.2,
+      "avgConcededB": 86,
+      "avgMarginA": 9.3,
+      "avgMarginB": 5.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": -1.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.3,
+      "avgScoredA": 83.1,
+      "avgScoredB": 83,
+      "avgConcededA": 88.5,
+      "avgConcededB": 86.7,
+      "avgMarginA": 9.7,
+      "avgMarginB": 14.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": -0.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.9,
+      "avgScoredA": 101.3,
+      "avgScoredB": 93,
+      "avgConcededA": 83.5,
+      "avgConcededB": 76.8,
+      "avgMarginA": 20,
+      "avgMarginB": 21,
+      "isHomeTeam": 1,
+      "momentumScore": 1.09,
+      "combinedGap": 42.5
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.9,
+      "avgScoredA": 78.9,
+      "avgScoredB": 89.7,
+      "avgConcededA": 77.6,
+      "avgConcededB": 77.4,
+      "avgMarginA": 11.8,
+      "avgMarginB": 15.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.41,
+      "combinedGap": 6.2
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 83.4,
+      "avgScoredB": 79.9,
+      "avgConcededA": 78.6,
+      "avgConcededB": 77.7,
+      "avgMarginA": 15.2,
+      "avgMarginB": 14.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 14.8
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 1,
+      "avgScoredA": 72.9,
+      "avgScoredB": 92.7,
+      "avgConcededA": 73.9,
+      "avgConcededB": 64.8,
+      "avgMarginA": 16.6,
+      "avgMarginB": 27.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 16.4
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.4,
+      "avgScoredA": 74,
+      "avgScoredB": 74.2,
+      "avgConcededA": 66.2,
+      "avgConcededB": 74.3,
+      "avgMarginA": 12.4,
+      "avgMarginB": 9.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.89,
+      "combinedGap": 9.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 85.2,
+      "avgScoredB": 66.8,
+      "avgConcededA": 68.8,
+      "avgConcededB": 81.4,
+      "avgMarginA": 29.4,
+      "avgMarginB": 6.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.87,
+      "combinedGap": 24.4
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.7,
+      "avgScoredA": 65.5,
+      "avgScoredB": 82.8,
+      "avgConcededA": 88.3,
+      "avgConcededB": 78.8,
+      "avgMarginA": 0,
+      "avgMarginB": 13.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": -13.3
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 90.1,
+      "avgScoredB": 84.1,
+      "avgConcededA": 88,
+      "avgConcededB": 87.1,
+      "avgMarginA": 10.2,
+      "avgMarginB": 8.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 8.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 92.1,
+      "avgScoredB": 80.2,
+      "avgConcededA": 86.9,
+      "avgConcededB": 82.1,
+      "avgMarginA": 13.3,
+      "avgMarginB": 14.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 18
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.1,
+      "avgScoredA": 89.4,
+      "avgScoredB": 82.1,
+      "avgConcededA": 99.7,
+      "avgConcededB": 92.5,
+      "avgMarginA": 8.5,
+      "avgMarginB": 4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -1.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 78.8,
+      "avgScoredB": 83.7,
+      "avgConcededA": 77.1,
+      "avgConcededB": 87.7,
+      "avgMarginA": 17.5,
+      "avgMarginB": 10.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.41,
+      "combinedGap": -1.9
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.8,
+      "avgScoredA": 87.8,
+      "avgScoredB": 93.6,
+      "avgConcededA": 80.7,
+      "avgConcededB": 81.7,
+      "avgMarginA": 14.7,
+      "avgMarginB": 17.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": 16.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.1,
+      "avgScoredA": 84.8,
+      "avgScoredB": 79.3,
+      "avgConcededA": 83.8,
+      "avgConcededB": 84,
+      "avgMarginA": 13.6,
+      "avgMarginB": 47,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 7.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.9,
+      "avgScoredA": 79.8,
+      "avgScoredB": 88.6,
+      "avgConcededA": 80.7,
+      "avgConcededB": 77.2,
+      "avgMarginA": 12.2,
+      "avgMarginB": 12.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.59,
+      "combinedGap": 9.9
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.5,
+      "avgScoredA": 75.8,
+      "avgScoredB": 77.9,
+      "avgConcededA": 83.5,
+      "avgConcededB": 75.1,
+      "avgMarginA": 11,
+      "avgMarginB": 14.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": 2.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 83.6,
+      "avgScoredB": 80.8,
+      "avgConcededA": 82.7,
+      "avgConcededB": 84,
+      "avgMarginA": 7.3,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.3,
+      "avgScoredA": 79,
+      "avgScoredB": 75.9,
+      "avgConcededA": 87.6,
+      "avgConcededB": 89.5,
+      "avgMarginA": 13.5,
+      "avgMarginB": 5.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -7.8
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 79.3,
+      "avgScoredB": 82.7,
+      "avgConcededA": 81.3,
+      "avgConcededB": 76.5,
+      "avgMarginA": 9.3,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.29,
+      "combinedGap": 5.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.2,
+      "avgScoredA": 81.5,
+      "avgScoredB": 78.9,
+      "avgConcededA": 73.9,
+      "avgConcededB": 86.6,
+      "avgMarginA": 9.9,
+      "avgMarginB": 8.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.99,
+      "combinedGap": 3.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 79.2,
+      "avgScoredB": 75.9,
+      "avgConcededA": 77.9,
+      "avgConcededB": 77.6,
+      "avgMarginA": 9.6,
+      "avgMarginB": 8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 6.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 79.4,
+      "avgScoredB": 77.1,
+      "avgConcededA": 77.2,
+      "avgConcededB": 77.4,
+      "avgMarginA": 8.4,
+      "avgMarginB": 8.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.72,
+      "combinedGap": 7.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 80.3,
+      "avgScoredB": 78.5,
+      "avgConcededA": 82.6,
+      "avgConcededB": 74.9,
+      "avgMarginA": 19.8,
+      "avgMarginB": 13.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 13.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.9,
+      "avgScoredA": 81.6,
+      "avgScoredB": 83.3,
+      "avgConcededA": 80.1,
+      "avgConcededB": 76,
+      "avgMarginA": 13,
+      "avgMarginB": 8.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 12.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.2,
+      "avgScoredA": 73.2,
+      "avgScoredB": 80.3,
+      "avgConcededA": 75.4,
+      "avgConcededB": 81.8,
+      "avgMarginA": 8.4,
+      "avgMarginB": 18.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": -4.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 72.2,
+      "avgScoredB": 79.5,
+      "avgConcededA": 78.9,
+      "avgConcededB": 82.5,
+      "avgMarginA": 10,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": -7.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 76.4,
+      "avgScoredB": 79.2,
+      "avgConcededA": 82,
+      "avgConcededB": 74.3,
+      "avgMarginA": 8,
+      "avgMarginB": 13.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.37,
+      "combinedGap": 5.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 87,
+      "avgScoredB": 84.1,
+      "avgConcededA": 81.9,
+      "avgConcededB": 88.5,
+      "avgMarginA": 12.3,
+      "avgMarginB": 15.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 5.9
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.7,
+      "avgScoredA": 85.9,
+      "avgScoredB": 84.6,
+      "avgConcededA": 79.6,
+      "avgConcededB": 78.7,
+      "avgMarginA": 10.9,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.86,
+      "combinedGap": 15.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.2,
+      "avgScoredA": 82.2,
+      "avgScoredB": 76.7,
+      "avgConcededA": 87.9,
+      "avgConcededB": 86.8,
+      "avgMarginA": 8.8,
+      "avgMarginB": 8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.37,
+      "combinedGap": -1.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.9,
+      "avgScoredA": 77.5,
+      "avgScoredB": 84.4,
+      "avgConcededA": 80.3,
+      "avgConcededB": 72.5,
+      "avgMarginA": 12.8,
+      "avgMarginB": 13.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": 11.4
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.4,
+      "avgScoredA": 73.8,
+      "avgScoredB": 75.2,
+      "avgConcededA": 79.9,
+      "avgConcededB": 83.5,
+      "avgMarginA": 17,
+      "avgMarginB": 6.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -6.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 76.5,
+      "avgScoredB": 77.3,
+      "avgConcededA": 71,
+      "avgConcededB": 72.7,
+      "avgMarginA": 17.2,
+      "avgMarginB": 12.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.65,
+      "combinedGap": 14.1
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 76.2,
+      "avgScoredB": 72.1,
+      "avgConcededA": 71.3,
+      "avgConcededB": 78.6,
+      "avgMarginA": 22.5,
+      "avgMarginB": 5.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.43,
+      "combinedGap": 6.6
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 71.4,
+      "avgScoredB": 72.4,
+      "avgConcededA": 81.5,
+      "avgConcededB": 73.7,
+      "avgMarginA": 10.5,
+      "avgMarginB": 23,
+      "isHomeTeam": 1,
+      "momentumScore": 0.35,
+      "combinedGap": 1.9
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 77.3,
+      "avgScoredB": 70.6,
+      "avgConcededA": 92.3,
+      "avgConcededB": 71.3,
+      "avgMarginA": 4,
+      "avgMarginB": 12.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.25,
+      "combinedGap": 7.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.5,
+      "avgScoredA": 72.4,
+      "avgScoredB": 74.8,
+      "avgConcededA": 80.8,
+      "avgConcededB": 74.1,
+      "avgMarginA": 7,
+      "avgMarginB": 13.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.36,
+      "combinedGap": 1.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.6,
+      "avgScoredA": 79.9,
+      "avgScoredB": 76.9,
+      "avgConcededA": 61.8,
+      "avgConcededB": 71.3,
+      "avgMarginA": 21,
+      "avgMarginB": 15,
+      "isHomeTeam": 1,
+      "momentumScore": 1.16,
+      "combinedGap": 27.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.9,
+      "avgScoredA": 73.9,
+      "avgScoredB": 80.3,
+      "avgConcededA": 82.7,
+      "avgConcededB": 66.6,
+      "avgMarginA": 13.3,
+      "avgMarginB": 16.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.36,
+      "combinedGap": 12.6
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 73.3,
+      "avgScoredB": 76.8,
+      "avgConcededA": 75.1,
+      "avgConcededB": 78.5,
+      "avgMarginA": 6.8,
+      "avgMarginB": 8.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": -2.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 73.7,
+      "avgScoredB": 74,
+      "avgConcededA": 77.1,
+      "avgConcededB": 66.9,
+      "avgMarginA": 8,
+      "avgMarginB": 17.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": 10
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 77.2,
+      "avgScoredB": 74.2,
+      "avgConcededA": 73.7,
+      "avgConcededB": 73.3,
+      "avgMarginA": 14.2,
+      "avgMarginB": 7.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.63,
+      "combinedGap": 12.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.5,
+      "avgScoredA": 78.5,
+      "avgScoredB": 73.1,
+      "avgConcededA": 90.9,
+      "avgConcededB": 75.6,
+      "avgMarginA": 5.5,
+      "avgMarginB": 8.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.17,
+      "combinedGap": 4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.5,
+      "avgScoredA": 69.3,
+      "avgScoredB": 73.7,
+      "avgConcededA": 74.5,
+      "avgConcededB": 73.3,
+      "avgMarginA": 7,
+      "avgMarginB": 8.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.19,
+      "combinedGap": -2.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.8,
+      "avgScoredA": 81.1,
+      "avgScoredB": 80.3,
+      "avgConcededA": 78.3,
+      "avgConcededB": 71.4,
+      "avgMarginA": 9.8,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 15.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 87.6,
+      "avgScoredB": 78.1,
+      "avgConcededA": 78.1,
+      "avgConcededB": 79.9,
+      "avgMarginA": 18.6,
+      "avgMarginB": 10.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.79,
+      "combinedGap": 20.7
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.8,
+      "avgScoredA": 71.6,
+      "avgScoredB": 82.8,
+      "avgConcededA": 73.8,
+      "avgConcededB": 73.6,
+      "avgMarginA": 10.4,
+      "avgMarginB": 13.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 3.2
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 77.9,
+      "avgScoredB": 78.7,
+      "avgConcededA": 79.5,
+      "avgConcededB": 85,
+      "avgMarginA": 7.2,
+      "avgMarginB": 4.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": -3.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.7,
+      "avgScoredA": 77.5,
+      "avgScoredB": 84.8,
+      "avgConcededA": 84.5,
+      "avgConcededB": 75.3,
+      "avgMarginA": 22,
+      "avgMarginB": 15,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": 6.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 70.6,
+      "avgScoredB": 73.6,
+      "avgConcededA": 75.7,
+      "avgConcededB": 71.1,
+      "avgMarginA": 9,
+      "avgMarginB": 19.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.37,
+      "combinedGap": 3.1
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.2,
+      "avgScoredA": 70.9,
+      "avgScoredB": 70.4,
+      "avgConcededA": 81.5,
+      "avgConcededB": 81.3,
+      "avgMarginA": 10.7,
+      "avgMarginB": 9.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.26,
+      "combinedGap": -7.2
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 87.1,
+      "avgScoredB": 80.2,
+      "avgConcededA": 86.3,
+      "avgConcededB": 75.5,
+      "avgMarginA": 10,
+      "avgMarginB": 9.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 16.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 83,
+      "avgScoredB": 76.4,
+      "avgConcededA": 80.5,
+      "avgConcededB": 75,
+      "avgMarginA": 13.2,
+      "avgMarginB": 8.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 14.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 1,
+      "winRateB": 0.2,
+      "avgScoredA": 87.7,
+      "avgScoredB": 73.6,
+      "avgConcededA": 69.5,
+      "avgConcededB": 79.5,
+      "avgMarginA": 18.2,
+      "avgMarginB": 16.5,
+      "isHomeTeam": 1,
+      "momentumScore": 1.26,
+      "combinedGap": 26.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 78.6,
+      "avgScoredB": 80.7,
+      "avgConcededA": 80,
+      "avgConcededB": 75.2,
+      "avgMarginA": 10,
+      "avgMarginB": 11.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 8.4
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.7,
+      "avgScoredA": 74.5,
+      "avgScoredB": 74.3,
+      "avgConcededA": 86.1,
+      "avgConcededB": 68.6,
+      "avgMarginA": 13,
+      "avgMarginB": 12.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.09,
+      "combinedGap": 7.2
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.2,
+      "avgScoredA": 70.5,
+      "avgScoredB": 76,
+      "avgConcededA": 68.9,
+      "avgConcededB": 83.2,
+      "avgMarginA": 12.2,
+      "avgMarginB": 9.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": -6.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 73.5,
+      "avgScoredB": 84.2,
+      "avgConcededA": 78.5,
+      "avgConcededB": 74.1,
+      "avgMarginA": 11.4,
+      "avgMarginB": 18.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.47,
+      "combinedGap": 5.1
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 1,
+      "winRateB": 0.5,
+      "avgScoredA": 92,
+      "avgScoredB": 79.3,
+      "avgConcededA": 76.8,
+      "avgConcededB": 79.2,
+      "avgMarginA": 15.2,
+      "avgMarginB": 16.2,
+      "isHomeTeam": 1,
+      "momentumScore": 1.2,
+      "combinedGap": 28
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.3,
+      "avgScoredA": 76.8,
+      "avgScoredB": 75.9,
+      "avgConcededA": 86.2,
+      "avgConcededB": 79.6,
+      "avgMarginA": 9.3,
+      "avgMarginB": 20,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": 0
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.6,
+      "avgScoredA": 82.7,
+      "avgScoredB": 86.9,
+      "avgConcededA": 73.1,
+      "avgConcededB": 76.4,
+      "avgMarginA": 17.9,
+      "avgMarginB": 24,
+      "isHomeTeam": 1,
+      "momentumScore": 0.79,
+      "combinedGap": 18.8
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 77,
+      "avgScoredB": 69.1,
+      "avgConcededA": 73.2,
+      "avgConcededB": 82.4,
+      "avgMarginA": 17,
+      "avgMarginB": 5.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.53,
+      "combinedGap": 3.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.5,
+      "avgScoredA": 80.6,
+      "avgScoredB": 84.2,
+      "avgConcededA": 87.5,
+      "avgConcededB": 79.9,
+      "avgMarginA": 8,
+      "avgMarginB": 20,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 3.1
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 90,
+      "avgScoredB": 85.2,
+      "avgConcededA": 85.1,
+      "avgConcededB": 88.8,
+      "avgMarginA": 9.9,
+      "avgMarginB": 9.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.85,
+      "combinedGap": 9.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0,
+      "avgScoredA": 85.6,
+      "avgScoredB": 73,
+      "avgConcededA": 79,
+      "avgConcededB": 99,
+      "avgMarginA": 12.9,
+      "avgMarginB": 0,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": -4.4
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 87,
+      "avgScoredB": 94.8,
+      "avgConcededA": 88.6,
+      "avgConcededB": 87.3,
+      "avgMarginA": 17,
+      "avgMarginB": 18.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 8.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 77.6,
+      "avgScoredB": 92.1,
+      "avgConcededA": 89.5,
+      "avgConcededB": 84.3,
+      "avgMarginA": 10.3,
+      "avgMarginB": 13.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.26,
+      "combinedGap": -3.6
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.2,
+      "avgScoredA": 75.5,
+      "avgScoredB": 76.4,
+      "avgConcededA": 68.6,
+      "avgConcededB": 87.3,
+      "avgMarginA": 18.3,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.66,
+      "combinedGap": -0.8
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.4,
+      "avgScoredA": 89,
+      "avgScoredB": 83,
+      "avgConcededA": 68.7,
+      "avgConcededB": 82.3,
+      "avgMarginA": 24,
+      "avgMarginB": 15.3,
+      "isHomeTeam": 1,
+      "momentumScore": 1.17,
+      "combinedGap": 28.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 78.7,
+      "avgScoredB": 75.1,
+      "avgConcededA": 74.6,
+      "avgConcededB": 83,
+      "avgMarginA": 11.7,
+      "avgMarginB": 11.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.63,
+      "combinedGap": 2.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.3,
+      "avgScoredA": 63.1,
+      "avgScoredB": 72,
+      "avgConcededA": 83.1,
+      "avgConcededB": 82.1,
+      "avgMarginA": 0,
+      "avgMarginB": 5,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": -19
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.4,
+      "avgScoredA": 84.3,
+      "avgScoredB": 77.8,
+      "avgConcededA": 75,
+      "avgConcededB": 81.2,
+      "avgMarginA": 14.4,
+      "avgMarginB": 6.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.9,
+      "combinedGap": 14.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 75,
+      "avgScoredB": 77.2,
+      "avgConcededA": 75,
+      "avgConcededB": 70.9,
+      "avgMarginA": 7.1,
+      "avgMarginB": 18.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.7,
+      "combinedGap": 9.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 1,
+      "winRateB": 0.4,
+      "avgScoredA": 89.7,
+      "avgScoredB": 79.8,
+      "avgConcededA": 72.2,
+      "avgConcededB": 83.3,
+      "avgMarginA": 17.5,
+      "avgMarginB": 3.8,
+      "isHomeTeam": 1,
+      "momentumScore": 1.24,
+      "combinedGap": 23.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.6,
+      "avgScoredA": 83,
+      "avgScoredB": 88.2,
+      "avgConcededA": 91.7,
+      "avgConcededB": 84.7,
+      "avgMarginA": 10,
+      "avgMarginB": 8.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": 1.3
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 82.8,
+      "avgScoredB": 91.9,
+      "avgConcededA": 84.3,
+      "avgConcededB": 87.3,
+      "avgMarginA": 13.3,
+      "avgMarginB": 14.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 0.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.1,
+      "avgScoredA": 88.2,
+      "avgScoredB": 77.7,
+      "avgConcededA": 90.9,
+      "avgConcededB": 90,
+      "avgMarginA": 17.3,
+      "avgMarginB": 4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.29,
+      "combinedGap": 3.4
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 90.8,
+      "avgScoredB": 91.5,
+      "avgConcededA": 84,
+      "avgConcededB": 86.8,
+      "avgMarginA": 19.2,
+      "avgMarginB": 16.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.65,
+      "combinedGap": 15.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.7,
+      "avgScoredA": 81.2,
+      "avgScoredB": 89.9,
+      "avgConcededA": 71.9,
+      "avgConcededB": 78.8,
+      "avgMarginA": 19.3,
+      "avgMarginB": 21,
+      "isHomeTeam": 1,
+      "momentumScore": 0.79,
+      "combinedGap": 15.9
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 82.5,
+      "avgScoredB": 80.7,
+      "avgConcededA": 75.7,
+      "avgConcededB": 82.7,
+      "avgMarginA": 14,
+      "avgMarginB": 24.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": 9.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.4,
+      "avgScoredA": 78,
+      "avgScoredB": 81.5,
+      "avgConcededA": 84.9,
+      "avgConcededB": 86.2,
+      "avgMarginA": 10.5,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -6.1
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0,
+      "avgScoredA": 87.4,
+      "avgScoredB": 72.1,
+      "avgConcededA": 80.3,
+      "avgConcededB": 98.4,
+      "avgMarginA": 15.3,
+      "avgMarginB": 0,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": -0.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.9,
+      "avgScoredA": 73.5,
+      "avgScoredB": 88.6,
+      "avgConcededA": 76.4,
+      "avgConcededB": 77.1,
+      "avgMarginA": 10.8,
+      "avgMarginB": 13.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": 0.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.6,
+      "avgScoredA": 84,
+      "avgScoredB": 80.7,
+      "avgConcededA": 77.8,
+      "avgConcededB": 80,
+      "avgMarginA": 10.9,
+      "avgMarginB": 10.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": 11.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.6,
+      "avgScoredA": 75.7,
+      "avgScoredB": 88.4,
+      "avgConcededA": 96.9,
+      "avgConcededB": 84.6,
+      "avgMarginA": 17,
+      "avgMarginB": 18.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.08,
+      "combinedGap": -7.2
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 71.1,
+      "avgScoredB": 86.9,
+      "avgConcededA": 83.7,
+      "avgConcededB": 75.4,
+      "avgMarginA": 6.7,
+      "avgMarginB": 19.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.25,
+      "combinedGap": -2.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.5,
+      "avgScoredA": 83.2,
+      "avgScoredB": 81.2,
+      "avgConcededA": 89.1,
+      "avgConcededB": 80.9,
+      "avgMarginA": 8.3,
+      "avgMarginB": 14.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.37,
+      "combinedGap": 5.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 67.8,
+      "avgScoredB": 89.7,
+      "avgConcededA": 86.3,
+      "avgConcededB": 84.7,
+      "avgMarginA": 4,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.24,
+      "combinedGap": -15.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.8,
+      "avgScoredA": 86.9,
+      "avgScoredB": 87.7,
+      "avgConcededA": 88.7,
+      "avgConcededB": 82,
+      "avgMarginA": 6.8,
+      "avgMarginB": 15.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 8.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.2,
+      "avgScoredA": 77.1,
+      "avgScoredB": 81,
+      "avgConcededA": 82.6,
+      "avgConcededB": 99.9,
+      "avgMarginA": 10.5,
+      "avgMarginB": 10,
+      "isHomeTeam": 1,
+      "momentumScore": 0.19,
+      "combinedGap": -20.7
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.1,
+      "avgScoredA": 71.3,
+      "avgScoredB": 71.8,
+      "avgConcededA": 77.8,
+      "avgConcededB": 84.6,
+      "avgMarginA": 10.3,
+      "avgMarginB": 19,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": -10.2
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.3,
+      "avgScoredA": 71.7,
+      "avgScoredB": 82.8,
+      "avgConcededA": 97.3,
+      "avgConcededB": 77.2,
+      "avgMarginA": 8,
+      "avgMarginB": 31.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.07,
+      "combinedGap": -4.7
+    },
+    "output": "unknown"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 93.1,
+      "avgScoredB": 85.7,
+      "avgConcededA": 89,
+      "avgConcededB": 76.7,
+      "avgMarginA": 15,
+      "avgMarginB": 16.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 23.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.5,
+      "avgScoredA": 93.7,
+      "avgScoredB": 79.3,
+      "avgConcededA": 77.6,
+      "avgConcededB": 79.5,
+      "avgMarginA": 18.6,
+      "avgMarginB": 13,
+      "isHomeTeam": 1,
+      "momentumScore": 1.09,
+      "combinedGap": 30.9
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.3,
+      "avgScoredA": 80.1,
+      "avgScoredB": 76.3,
+      "avgConcededA": 76.7,
+      "avgConcededB": 85.9,
+      "avgMarginA": 15.4,
+      "avgMarginB": 14.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 1.9
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 81.1,
+      "avgScoredB": 73.6,
+      "avgConcededA": 75.5,
+      "avgConcededB": 82.6,
+      "avgMarginA": 14.3,
+      "avgMarginB": 7.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 7.1
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 79.7,
+      "avgScoredB": 74,
+      "avgConcededA": 77.8,
+      "avgConcededB": 84.1,
+      "avgMarginA": 10.8,
+      "avgMarginB": 5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 75.5,
+      "avgScoredB": 79.1,
+      "avgConcededA": 81,
+      "avgConcededB": 80,
+      "avgMarginA": 5,
+      "avgMarginB": 13.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": -3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.5,
+      "avgScoredA": 94.9,
+      "avgScoredB": 94.6,
+      "avgConcededA": 93.5,
+      "avgConcededB": 95.9,
+      "avgMarginA": 12.5,
+      "avgMarginB": 10.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 6.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 92.1,
+      "avgScoredB": 100.8,
+      "avgConcededA": 96.4,
+      "avgConcededB": 100.6,
+      "avgMarginA": 9.5,
+      "avgMarginB": 14.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": -4.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 86,
+      "avgScoredB": 88.6,
+      "avgConcededA": 83.4,
+      "avgConcededB": 91.1,
+      "avgMarginA": 13.3,
+      "avgMarginB": 23.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 2.9
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 88.3,
+      "avgScoredB": 78,
+      "avgConcededA": 87.2,
+      "avgConcededB": 81.2,
+      "avgMarginA": 10.3,
+      "avgMarginB": 10.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 13.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.1,
+      "avgScoredA": 81.2,
+      "avgScoredB": 69.9,
+      "avgConcededA": 82.3,
+      "avgConcededB": 87.4,
+      "avgMarginA": 11.3,
+      "avgMarginB": 8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": -1.7
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 81.4,
+      "avgScoredB": 77.3,
+      "avgConcededA": 85.1,
+      "avgConcededB": 82.2,
+      "avgMarginA": 9,
+      "avgMarginB": 7.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.29,
+      "combinedGap": 1.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 78.8,
+      "avgScoredB": 80.7,
+      "avgConcededA": 76.2,
+      "avgConcededB": 80.2,
+      "avgMarginA": 15.4,
+      "avgMarginB": 11.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 6.3
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.9,
+      "avgScoredA": 78.1,
+      "avgScoredB": 87.1,
+      "avgConcededA": 85.4,
+      "avgConcededB": 78.9,
+      "avgMarginA": 6.7,
+      "avgMarginB": 9.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": 1.2
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.1,
+      "avgScoredA": 83.1,
+      "avgScoredB": 70.8,
+      "avgConcededA": 88.6,
+      "avgConcededB": 88.2,
+      "avgMarginA": 20,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 0.9
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 82.9,
+      "avgScoredB": 89.4,
+      "avgConcededA": 86.3,
+      "avgConcededB": 83,
+      "avgMarginA": 16,
+      "avgMarginB": 13,
+      "isHomeTeam": 1,
+      "momentumScore": 0.29,
+      "combinedGap": 4.7
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.7,
+      "avgScoredA": 68.1,
+      "avgScoredB": 80.2,
+      "avgConcededA": 85,
+      "avgConcededB": 71.8,
+      "avgMarginA": 3.5,
+      "avgMarginB": 14.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.16,
+      "combinedGap": -3
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.7,
+      "avgScoredA": 72.8,
+      "avgScoredB": 78.5,
+      "avgConcededA": 79.4,
+      "avgConcededB": 74.3,
+      "avgMarginA": 10,
+      "avgMarginB": 9.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": 0.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 75.7,
+      "avgScoredB": 74.7,
+      "avgConcededA": 71,
+      "avgConcededB": 72.6,
+      "avgMarginA": 14,
+      "avgMarginB": 8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.53,
+      "combinedGap": 10.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 73.3,
+      "avgScoredB": 77.6,
+      "avgConcededA": 71.5,
+      "avgConcededB": 76.6,
+      "avgMarginA": 12,
+      "avgMarginB": 7.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 2.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 84,
+      "avgScoredB": 77.7,
+      "avgConcededA": 81.2,
+      "avgConcededB": 73.7,
+      "avgMarginA": 8.3,
+      "avgMarginB": 12.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 15.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.14,
+      "avgScoredA": 69.2,
+      "avgScoredB": 65.7,
+      "avgConcededA": 70.8,
+      "avgConcededB": 79,
+      "avgMarginA": 11,
+      "avgMarginB": 5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": -5.4
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.5,
+      "avgScoredA": 84.5,
+      "avgScoredB": 72.5,
+      "avgConcededA": 72.5,
+      "avgConcededB": 74.7,
+      "avgMarginA": 13.8,
+      "avgMarginB": 9.4,
+      "isHomeTeam": 1,
+      "momentumScore": 1.05,
+      "combinedGap": 22.2
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 89.3,
+      "avgScoredB": 81.4,
+      "avgConcededA": 86.4,
+      "avgConcededB": 73.7,
+      "avgMarginA": 16.6,
+      "avgMarginB": 18.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 23.9
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.2,
+      "avgScoredA": 72.5,
+      "avgScoredB": 81.1,
+      "avgConcededA": 74.1,
+      "avgConcededB": 91.7,
+      "avgMarginA": 11.2,
+      "avgMarginB": 14,
+      "isHomeTeam": 1,
+      "momentumScore": 0.59,
+      "combinedGap": -12.5
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 85.1,
+      "avgScoredB": 81.7,
+      "avgConcededA": 84.3,
+      "avgConcededB": 82.1,
+      "avgMarginA": 15,
+      "avgMarginB": 10.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 10.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.5,
+      "avgScoredA": 76.1,
+      "avgScoredB": 76.6,
+      "avgConcededA": 80.1,
+      "avgConcededB": 78.7,
+      "avgMarginA": 8.3,
+      "avgMarginB": 10.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": 0.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 82.8,
+      "avgScoredB": 86.9,
+      "avgConcededA": 78.2,
+      "avgConcededB": 79,
+      "avgMarginA": 8.1,
+      "avgMarginB": 20.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.85,
+      "combinedGap": 10.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.3,
+      "avgScoredA": 80.9,
+      "avgScoredB": 82,
+      "avgConcededA": 80.9,
+      "avgConcededB": 85.9,
+      "avgMarginA": 8,
+      "avgMarginB": 6.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": -1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 82.2,
+      "avgScoredB": 84.7,
+      "avgConcededA": 78.9,
+      "avgConcededB": 82.5,
+      "avgMarginA": 11.6,
+      "avgMarginB": 6.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 5.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 75.7,
+      "avgScoredB": 74.6,
+      "avgConcededA": 77.4,
+      "avgConcededB": 77.2,
+      "avgMarginA": 9.5,
+      "avgMarginB": 9.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 2.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.1,
+      "avgScoredA": 72.5,
+      "avgScoredB": 68.4,
+      "avgConcededA": 74.7,
+      "avgConcededB": 75.5,
+      "avgMarginA": 6.5,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.58,
+      "combinedGap": 0.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.6,
+      "avgScoredA": 79.6,
+      "avgScoredB": 85.9,
+      "avgConcededA": 93.8,
+      "avgConcededB": 77.5,
+      "avgMarginA": 8.7,
+      "avgMarginB": 19.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.25,
+      "combinedGap": 4.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.9,
+      "avgScoredA": 86.2,
+      "avgScoredB": 84.1,
+      "avgConcededA": 79,
+      "avgConcededB": 69.3,
+      "avgMarginA": 12.8,
+      "avgMarginB": 19.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.87,
+      "combinedGap": 27.1
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.5,
+      "avgScoredA": 79.1,
+      "avgScoredB": 73.2,
+      "avgConcededA": 65.6,
+      "avgConcededB": 70.8,
+      "avgMarginA": 16.1,
+      "avgMarginB": 17,
+      "isHomeTeam": 1,
+      "momentumScore": 1.09,
+      "combinedGap": 22.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 83.2,
+      "avgScoredB": 81.6,
+      "avgConcededA": 79.5,
+      "avgConcededB": 89,
+      "avgMarginA": 10,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.73,
+      "combinedGap": 1.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 79.3,
+      "avgScoredB": 81.4,
+      "avgConcededA": 82.4,
+      "avgConcededB": 79.8,
+      "avgMarginA": 9.6,
+      "avgMarginB": 21,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": 4.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 86.9,
+      "avgScoredB": 78.4,
+      "avgConcededA": 81.8,
+      "avgConcededB": 83.4,
+      "avgMarginA": 14.3,
+      "avgMarginB": 7.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 12.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 73.9,
+      "avgScoredB": 73.8,
+      "avgConcededA": 75.7,
+      "avgConcededB": 74.5,
+      "avgMarginA": 8.4,
+      "avgMarginB": 14.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 3.6
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.3,
+      "avgScoredA": 79.5,
+      "avgScoredB": 71.3,
+      "avgConcededA": 71.4,
+      "avgConcededB": 76.9,
+      "avgMarginA": 12.8,
+      "avgMarginB": 15.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.89,
+      "combinedGap": 12.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.9,
+      "avgScoredA": 78.8,
+      "avgScoredB": 91.5,
+      "avgConcededA": 78.7,
+      "avgConcededB": 74.7,
+      "avgMarginA": 9,
+      "avgMarginB": 21.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": 9.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 121.8,
+      "avgScoredB": 118.7,
+      "avgConcededA": 112.4,
+      "avgConcededB": 118.1,
+      "avgMarginA": 16.1,
+      "avgMarginB": 10.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.87,
+      "combinedGap": 16.6
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 91.4,
+      "avgScoredB": 76.3,
+      "avgConcededA": 76.6,
+      "avgConcededB": 88,
+      "avgMarginA": 24.6,
+      "avgMarginB": 8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.84,
+      "combinedGap": 20.6
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 90.6,
+      "avgScoredB": 73.4,
+      "avgConcededA": 79.7,
+      "avgConcededB": 70.4,
+      "avgMarginA": 16,
+      "avgMarginB": 14.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.91,
+      "combinedGap": 33
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.6,
+      "avgScoredA": 97.7,
+      "avgScoredB": 81.5,
+      "avgConcededA": 76.8,
+      "avgConcededB": 79.1,
+      "avgMarginA": 23.9,
+      "avgMarginB": 13.5,
+      "isHomeTeam": 1,
+      "momentumScore": 1.14,
+      "combinedGap": 40.1
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 78.2,
+      "avgScoredB": 76.8,
+      "avgConcededA": 72.4,
+      "avgConcededB": 71.3,
+      "avgMarginA": 9.8,
+      "avgMarginB": 13.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.86,
+      "combinedGap": 14.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 1,
+      "winRateB": 0.4,
+      "avgScoredA": 88.6,
+      "avgScoredB": 77.6,
+      "avgConcededA": 73.4,
+      "avgConcededB": 79.3,
+      "avgMarginA": 15.2,
+      "avgMarginB": 8.3,
+      "isHomeTeam": 1,
+      "momentumScore": 1.21,
+      "combinedGap": 24.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 76.2,
+      "avgScoredB": 82.1,
+      "avgConcededA": 72.8,
+      "avgConcededB": 81.5,
+      "avgMarginA": 15.2,
+      "avgMarginB": 11.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.63,
+      "combinedGap": 3.8
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 90,
+      "avgScoredB": 82.3,
+      "avgConcededA": 85.8,
+      "avgConcededB": 85,
+      "avgMarginA": 11.7,
+      "avgMarginB": 14,
+      "isHomeTeam": 1,
+      "momentumScore": 0.63,
+      "combinedGap": 12
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 1,
+      "winRateB": 0.4,
+      "avgScoredA": 85.1,
+      "avgScoredB": 82.1,
+      "avgConcededA": 67.6,
+      "avgConcededB": 86.7,
+      "avgMarginA": 17.5,
+      "avgMarginB": 16.5,
+      "isHomeTeam": 1,
+      "momentumScore": 1.26,
+      "combinedGap": 15.9
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.7,
+      "avgScoredA": 78.6,
+      "avgScoredB": 77.5,
+      "avgConcededA": 61.6,
+      "avgConcededB": 73.8,
+      "avgMarginA": 23.9,
+      "avgMarginB": 14.6,
+      "isHomeTeam": 1,
+      "momentumScore": 1.02,
+      "combinedGap": 23.9
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 95.5,
+      "avgScoredB": 86.7,
+      "avgConcededA": 80.9,
+      "avgConcededB": 86.7,
+      "avgMarginA": 23.5,
+      "avgMarginB": 15.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.94,
+      "combinedGap": 27.6
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.9,
+      "avgScoredA": 117.4,
+      "avgScoredB": 117.5,
+      "avgConcededA": 113.6,
+      "avgConcededB": 104.3,
+      "avgMarginA": 15.4,
+      "avgMarginB": 15.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 20.8
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.3,
+      "avgScoredA": 104.4,
+      "avgScoredB": 84.8,
+      "avgConcededA": 68.3,
+      "avgConcededB": 94.4,
+      "avgMarginA": 45.9,
+      "avgMarginB": 6,
+      "isHomeTeam": 1,
+      "momentumScore": 1.22,
+      "combinedGap": 46.7
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 94.5,
+      "avgScoredB": 77.9,
+      "avgConcededA": 88,
+      "avgConcededB": 96.1,
+      "avgMarginA": 19.2,
+      "avgMarginB": 6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 9.9
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 82.8,
+      "avgScoredB": 85.3,
+      "avgConcededA": 91,
+      "avgConcededB": 88.6,
+      "avgMarginA": 8.2,
+      "avgMarginB": 9.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.45,
+      "combinedGap": -1.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.1,
+      "avgScoredA": 95.5,
+      "avgScoredB": 66,
+      "avgConcededA": 74.3,
+      "avgConcededB": 79.1,
+      "avgMarginA": 27.7,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 1.16,
+      "combinedGap": 41.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.67,
+      "avgScoredA": 68.6,
+      "avgScoredB": 71.3,
+      "avgConcededA": 70.8,
+      "avgConcededB": 71,
+      "avgMarginA": 16.7,
+      "avgMarginB": 6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.29,
+      "combinedGap": 2.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 78.9,
+      "avgScoredB": 82.4,
+      "avgConcededA": 76.4,
+      "avgConcededB": 78.9,
+      "avgMarginA": 21.4,
+      "avgMarginB": 21.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 10.7
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.3,
+      "avgScoredA": 81.9,
+      "avgScoredB": 79.4,
+      "avgConcededA": 75.3,
+      "avgConcededB": 82.2,
+      "avgMarginA": 8.9,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.98,
+      "combinedGap": 7.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 84.9,
+      "avgScoredB": 81.3,
+      "avgConcededA": 86.5,
+      "avgConcededB": 75.2,
+      "avgMarginA": 14.8,
+      "avgMarginB": 20.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 17.1
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 90,
+      "avgScoredB": 77.7,
+      "avgConcededA": 88.4,
+      "avgConcededB": 85.2,
+      "avgMarginA": 19.3,
+      "avgMarginB": 3.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.41,
+      "combinedGap": 12.5
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.1,
+      "avgScoredA": 79.8,
+      "avgScoredB": 76.2,
+      "avgConcededA": 85.7,
+      "avgConcededB": 91.3,
+      "avgMarginA": 3.3,
+      "avgMarginB": 1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": -10.5
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.2,
+      "avgScoredA": 78.8,
+      "avgScoredB": 68.7,
+      "avgConcededA": 77.7,
+      "avgConcededB": 80.8,
+      "avgMarginA": 17.6,
+      "avgMarginB": 5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 6.8
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 81,
+      "avgScoredB": 80.8,
+      "avgConcededA": 76.6,
+      "avgConcededB": 88.7,
+      "avgMarginA": 12.8,
+      "avgMarginB": 8.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.63,
+      "combinedGap": 0
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 87.5,
+      "avgScoredB": 82.2,
+      "avgConcededA": 79.2,
+      "avgConcededB": 82.1,
+      "avgMarginA": 16.1,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0.77,
+      "combinedGap": 16.7
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 74,
+      "avgScoredB": 85.8,
+      "avgConcededA": 78.8,
+      "avgConcededB": 84.6,
+      "avgMarginA": 11,
+      "avgMarginB": 14.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": -6.2
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.5,
+      "avgScoredA": 86.3,
+      "avgScoredB": 86.8,
+      "avgConcededA": 83.8,
+      "avgConcededB": 88.4,
+      "avgMarginA": 10.7,
+      "avgMarginB": 13,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 4.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 91.8,
+      "avgScoredB": 86.7,
+      "avgConcededA": 79.2,
+      "avgConcededB": 89.7,
+      "avgMarginA": 26,
+      "avgMarginB": 13.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.81,
+      "combinedGap": 20.3
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 84.7,
+      "avgScoredB": 76.3,
+      "avgConcededA": 81.5,
+      "avgConcededB": 81.7,
+      "avgMarginA": 22,
+      "avgMarginB": 15.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.42,
+      "combinedGap": 11.8
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 120.9,
+      "avgScoredB": 117.8,
+      "avgConcededA": 118.9,
+      "avgConcededB": 106,
+      "avgMarginA": 16.8,
+      "avgMarginB": 25,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 23.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 115,
+      "avgScoredB": 108.8,
+      "avgConcededA": 115.8,
+      "avgConcededB": 117.1,
+      "avgMarginA": 16.2,
+      "avgMarginB": 9.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 101,
+      "avgScoredB": 106.9,
+      "avgConcededA": 102.1,
+      "avgConcededB": 100.1,
+      "avgMarginA": 6.8,
+      "avgMarginB": 12.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 4.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.7,
+      "avgScoredA": 101.9,
+      "avgScoredB": 119,
+      "avgConcededA": 99.9,
+      "avgConcededB": 109.4,
+      "avgMarginA": 16.3,
+      "avgMarginB": 16.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 2.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 81.7,
+      "avgScoredB": 75.8,
+      "avgConcededA": 76.2,
+      "avgConcededB": 79.4,
+      "avgMarginA": 10,
+      "avgMarginB": 11.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.75,
+      "combinedGap": 9.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.6,
+      "avgScoredA": 84.1,
+      "avgScoredB": 83.3,
+      "avgConcededA": 69.3,
+      "avgConcededB": 80.3,
+      "avgMarginA": 19.1,
+      "avgMarginB": 12.5,
+      "isHomeTeam": 1,
+      "momentumScore": 1.09,
+      "combinedGap": 21
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.3,
+      "avgScoredA": 81.9,
+      "avgScoredB": 70.9,
+      "avgConcededA": 79,
+      "avgConcededB": 79.9,
+      "avgMarginA": 16.2,
+      "avgMarginB": 5.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 10.1
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.2,
+      "avgScoredA": 78.7,
+      "avgScoredB": 69.7,
+      "avgConcededA": 78.6,
+      "avgConcededB": 76,
+      "avgMarginA": 12.8,
+      "avgMarginB": 23,
+      "isHomeTeam": 1,
+      "momentumScore": 0.4,
+      "combinedGap": 7.8
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 109.1,
+      "avgScoredB": 112.3,
+      "avgConcededA": 105.1,
+      "avgConcededB": 115.3,
+      "avgMarginA": 13.3,
+      "avgMarginB": 9.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 1.8
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.8,
+      "avgScoredA": 73.9,
+      "avgScoredB": 79.5,
+      "avgConcededA": 75.7,
+      "avgConcededB": 71.4,
+      "avgMarginA": 8.4,
+      "avgMarginB": 12.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 6.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 71.3,
+      "avgScoredB": 73.8,
+      "avgConcededA": 76.9,
+      "avgConcededB": 74.5,
+      "avgMarginA": 15.7,
+      "avgMarginB": 14.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 1.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 79.3,
+      "avgScoredB": 81.4,
+      "avgConcededA": 82.4,
+      "avgConcededB": 79.8,
+      "avgMarginA": 9.6,
+      "avgMarginB": 21,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": 4.3
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 83.2,
+      "avgScoredB": 81.6,
+      "avgConcededA": 79.5,
+      "avgConcededB": 89,
+      "avgMarginA": 10,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.73,
+      "combinedGap": 1.2
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.8,
+      "avgScoredA": 85.2,
+      "avgScoredB": 69.4,
+      "avgConcededA": 69.1,
+      "avgConcededB": 62.7,
+      "avgMarginA": 19.3,
+      "avgMarginB": 11.9,
+      "isHomeTeam": 1,
+      "momentumScore": 1.11,
+      "combinedGap": 39.9
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.6,
+      "avgScoredA": 76.1,
+      "avgScoredB": 69.1,
+      "avgConcededA": 82.1,
+      "avgConcededB": 67.6,
+      "avgMarginA": 6.3,
+      "avgMarginB": 6.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 10.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.1,
+      "avgScoredA": 72.5,
+      "avgScoredB": 68.4,
+      "avgConcededA": 74.7,
+      "avgConcededB": 75.5,
+      "avgMarginA": 6.5,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.58,
+      "combinedGap": 0.9
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.5,
+      "avgScoredA": 78.8,
+      "avgScoredB": 79.1,
+      "avgConcededA": 76.8,
+      "avgConcededB": 79.2,
+      "avgMarginA": 11.3,
+      "avgMarginB": 6.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 6.4
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.6,
+      "avgScoredA": 90,
+      "avgScoredB": 86.4,
+      "avgConcededA": 94.5,
+      "avgConcededB": 86.7,
+      "avgMarginA": 14.3,
+      "avgMarginB": 7.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.29,
+      "combinedGap": 7.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.5,
+      "avgScoredA": 81.5,
+      "avgScoredB": 81.1,
+      "avgConcededA": 81.2,
+      "avgConcededB": 82.9,
+      "avgMarginA": 8.3,
+      "avgMarginB": 5.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": 3.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.8,
+      "avgScoredA": 86.9,
+      "avgScoredB": 92.3,
+      "avgConcededA": 87.2,
+      "avgConcededB": 81.8,
+      "avgMarginA": 13.6,
+      "avgMarginB": 16,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 11.9
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 88.2,
+      "avgScoredB": 80.9,
+      "avgConcededA": 87.5,
+      "avgConcededB": 84.4,
+      "avgMarginA": 6,
+      "avgMarginB": 6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.71,
+      "combinedGap": 8
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.14,
+      "avgScoredA": 70.7,
+      "avgScoredB": 65.7,
+      "avgConcededA": 67.6,
+      "avgConcededB": 79,
+      "avgMarginA": 8.5,
+      "avgMarginB": 5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.84,
+      "combinedGap": -1.5
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 94.3,
+      "avgScoredB": 73.4,
+      "avgConcededA": 92.4,
+      "avgConcededB": 73.8,
+      "avgMarginA": 8,
+      "avgMarginB": 9.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 25.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.67,
+      "winRateB": 0.4,
+      "avgScoredA": 76.3,
+      "avgScoredB": 73,
+      "avgConcededA": 67.7,
+      "avgConcededB": 69.3,
+      "avgMarginA": 14,
+      "avgMarginB": 30.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.75,
+      "combinedGap": 16.37
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 82.1,
+      "avgScoredB": 80.8,
+      "avgConcededA": 85.6,
+      "avgConcededB": 78.2,
+      "avgMarginA": 13.5,
+      "avgMarginB": 15,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": 9.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.7,
+      "avgScoredA": 104.7,
+      "avgScoredB": 104.7,
+      "avgConcededA": 98,
+      "avgConcededB": 98,
+      "avgMarginA": 15.6,
+      "avgMarginB": 14.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.75,
+      "combinedGap": 17.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.5,
+      "avgScoredA": 125.8,
+      "avgScoredB": 115,
+      "avgConcededA": 110.5,
+      "avgConcededB": 115.8,
+      "avgMarginA": 24.3,
+      "avgMarginB": 16.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.91,
+      "combinedGap": 29.4
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 77.6,
+      "avgScoredB": 77.4,
+      "avgConcededA": 75.2,
+      "avgConcededB": 74.8,
+      "avgMarginA": 9.6,
+      "avgMarginB": 14.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.72,
+      "combinedGap": 9.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.7,
+      "avgScoredA": 86.2,
+      "avgScoredB": 76.8,
+      "avgConcededA": 79,
+      "avgConcededB": 73.4,
+      "avgMarginA": 12.8,
+      "avgMarginB": 10.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.87,
+      "combinedGap": 23
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 72.5,
+      "avgScoredB": 77.6,
+      "avgConcededA": 74,
+      "avgConcededB": 71.5,
+      "avgMarginA": 3.5,
+      "avgMarginB": 12.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.59,
+      "combinedGap": 3.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 90.4,
+      "avgScoredB": 81.8,
+      "avgConcededA": 73.1,
+      "avgConcededB": 84.1,
+      "avgMarginA": 26.1,
+      "avgMarginB": 6.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.87,
+      "combinedGap": 24.6
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 109.5,
+      "avgScoredB": 102.2,
+      "avgConcededA": 106.1,
+      "avgConcededB": 97.5,
+      "avgMarginA": 13.2,
+      "avgMarginB": 9.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 18.6
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.7,
+      "avgScoredA": 112.2,
+      "avgScoredB": 108.8,
+      "avgConcededA": 99.5,
+      "avgConcededB": 100.7,
+      "avgMarginA": 21,
+      "avgMarginB": 17,
+      "isHomeTeam": 1,
+      "momentumScore": 0.9,
+      "combinedGap": 28.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 84.9,
+      "avgScoredB": 81.3,
+      "avgConcededA": 86.5,
+      "avgConcededB": 75.2,
+      "avgMarginA": 14.8,
+      "avgMarginB": 20.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 17.1
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 88.3,
+      "avgScoredB": 78,
+      "avgConcededA": 87.2,
+      "avgConcededB": 81.2,
+      "avgMarginA": 10.3,
+      "avgMarginB": 10.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 13.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.33,
+      "winRateB": 1,
+      "avgScoredA": 74.7,
+      "avgScoredB": 68,
+      "avgConcededA": 74,
+      "avgConcededB": 62.5,
+      "avgMarginA": 32,
+      "avgMarginB": 5.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.34,
+      "combinedGap": 22.83
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.5,
+      "avgScoredA": 65.3,
+      "avgScoredB": 64.5,
+      "avgConcededA": 90.6,
+      "avgConcededB": 66.7,
+      "avgMarginA": 0,
+      "avgMarginB": 9.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": -1.4
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 68.6,
+      "avgScoredB": 63.4,
+      "avgConcededA": 63.6,
+      "avgConcededB": 65.4,
+      "avgMarginA": 11,
+      "avgMarginB": 9.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": 10.9
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.8,
+      "avgScoredA": 77.6,
+      "avgScoredB": 87.1,
+      "avgConcededA": 89.6,
+      "avgConcededB": 77.9,
+      "avgMarginA": 12,
+      "avgMarginB": 14.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.17,
+      "combinedGap": 2.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.8,
+      "avgScoredA": 115.2,
+      "avgScoredB": 116.3,
+      "avgConcededA": 112.3,
+      "avgConcededB": 105.7,
+      "avgMarginA": 17,
+      "avgMarginB": 16.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 19.7
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 73.6,
+      "avgScoredB": 83.9,
+      "avgConcededA": 71.9,
+      "avgConcededB": 75.8,
+      "avgMarginA": 12.8,
+      "avgMarginB": 19.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 5.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.4,
+      "avgScoredA": 89,
+      "avgScoredB": 78.3,
+      "avgConcededA": 77,
+      "avgConcededB": 82.4,
+      "avgMarginA": 19.3,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.92,
+      "combinedGap": 22
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 83.1,
+      "avgScoredB": 86.2,
+      "avgConcededA": 81.3,
+      "avgConcededB": 86.3,
+      "avgMarginA": 9,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.72,
+      "combinedGap": 3.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.2,
+      "avgScoredA": 70.9,
+      "avgScoredB": 70.4,
+      "avgConcededA": 81.5,
+      "avgConcededB": 81.3,
+      "avgMarginA": 10.7,
+      "avgMarginB": 9.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.26,
+      "combinedGap": -7.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.4,
+      "avgScoredA": 70.6,
+      "avgScoredB": 73.6,
+      "avgConcededA": 75.7,
+      "avgConcededB": 71.1,
+      "avgMarginA": 9,
+      "avgMarginB": 19.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.37,
+      "combinedGap": 3.1
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.7,
+      "avgScoredA": 77.5,
+      "avgScoredB": 84.8,
+      "avgConcededA": 84.5,
+      "avgConcededB": 75.3,
+      "avgMarginA": 22,
+      "avgMarginB": 15,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": 6.6
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 77.9,
+      "avgScoredB": 78.7,
+      "avgConcededA": 79.5,
+      "avgConcededB": 85,
+      "avgMarginA": 7.2,
+      "avgMarginB": 4.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": -3.5
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.8,
+      "avgScoredA": 71.6,
+      "avgScoredB": 82.8,
+      "avgConcededA": 73.8,
+      "avgConcededB": 73.6,
+      "avgMarginA": 10.4,
+      "avgMarginB": 13.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 3.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.5,
+      "avgScoredA": 93.1,
+      "avgScoredB": 81.8,
+      "avgConcededA": 87,
+      "avgConcededB": 85.5,
+      "avgMarginA": 8,
+      "avgMarginB": 4.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.86,
+      "combinedGap": 14
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.2,
+      "avgScoredA": 85.7,
+      "avgScoredB": 85.3,
+      "avgConcededA": 88.7,
+      "avgConcededB": 91.8,
+      "avgMarginA": 8.2,
+      "avgMarginB": 13.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": -2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.9,
+      "avgScoredA": 90.9,
+      "avgScoredB": 84.7,
+      "avgConcededA": 87.2,
+      "avgConcededB": 78.2,
+      "avgMarginA": 18,
+      "avgMarginB": 8.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 21.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.5,
+      "avgScoredA": 89.2,
+      "avgScoredB": 88.6,
+      "avgConcededA": 83,
+      "avgConcededB": 92.6,
+      "avgMarginA": 7.8,
+      "avgMarginB": 5.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.97,
+      "combinedGap": 3.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.7,
+      "avgScoredA": 83.9,
+      "avgScoredB": 93.1,
+      "avgConcededA": 86.2,
+      "avgConcededB": 81.3,
+      "avgMarginA": 8.8,
+      "avgMarginB": 20,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 6.1
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 82.8,
+      "avgScoredB": 81.9,
+      "avgConcededA": 79.7,
+      "avgConcededB": 89.5,
+      "avgMarginA": 12.5,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 0.8
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 87.1,
+      "avgScoredB": 80.2,
+      "avgConcededA": 86.3,
+      "avgConcededB": 75.5,
+      "avgMarginA": 10,
+      "avgMarginB": 9.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 16.6
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 84.8,
+      "avgScoredB": 84.3,
+      "avgConcededA": 83.9,
+      "avgConcededB": 81.7,
+      "avgMarginA": 11.6,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 8.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 80.9,
+      "avgScoredB": 73.3,
+      "avgConcededA": 81.6,
+      "avgConcededB": 80.8,
+      "avgMarginA": 19,
+      "avgMarginB": 8.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.4,
+      "combinedGap": 7.7
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 1,
+      "winRateB": 0.5,
+      "avgScoredA": 89.5,
+      "avgScoredB": 82.5,
+      "avgConcededA": 73.7,
+      "avgConcededB": 80.1,
+      "avgMarginA": 15.8,
+      "avgMarginB": 16.2,
+      "isHomeTeam": 1,
+      "momentumScore": 1.21,
+      "combinedGap": 25.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.5,
+      "avgScoredA": 95.8,
+      "avgScoredB": 93.3,
+      "avgConcededA": 87.6,
+      "avgConcededB": 89.8,
+      "avgMarginA": 10.5,
+      "avgMarginB": 23.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.87,
+      "combinedGap": 14.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.3,
+      "avgScoredA": 82.5,
+      "avgScoredB": 81.5,
+      "avgConcededA": 88.8,
+      "avgConcededB": 86.9,
+      "avgMarginA": 6.8,
+      "avgMarginB": 18.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.37,
+      "combinedGap": -1.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.7,
+      "avgScoredA": 78.2,
+      "avgScoredB": 85.9,
+      "avgConcededA": 78.5,
+      "avgConcededB": 81.1,
+      "avgMarginA": 11,
+      "avgMarginB": 10.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": 3.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.7,
+      "avgScoredA": 78.1,
+      "avgScoredB": 81.8,
+      "avgConcededA": 77,
+      "avgConcededB": 75.3,
+      "avgMarginA": 12.3,
+      "avgMarginB": 13.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 10.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.7,
+      "avgScoredA": 75.8,
+      "avgScoredB": 77.7,
+      "avgConcededA": 76.2,
+      "avgConcededB": 75,
+      "avgMarginA": 11.8,
+      "avgMarginB": 8.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.4,
+      "combinedGap": 5.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.2,
+      "avgScoredA": 74.4,
+      "avgScoredB": 73.8,
+      "avgConcededA": 82.1,
+      "avgConcededB": 80.6,
+      "avgMarginA": 10,
+      "avgMarginB": 18.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.36,
+      "combinedGap": -2.2
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.4,
+      "avgScoredA": 76.1,
+      "avgScoredB": 76.6,
+      "avgConcededA": 78.7,
+      "avgConcededB": 81.7,
+      "avgMarginA": 9.2,
+      "avgMarginB": 9.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.58,
+      "combinedGap": -0.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.2,
+      "avgScoredA": 90,
+      "avgScoredB": 81.2,
+      "avgConcededA": 91,
+      "avgConcededB": 89.5,
+      "avgMarginA": 7,
+      "avgMarginB": 5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.59,
+      "combinedGap": 4.7
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 94.9,
+      "avgScoredB": 89.9,
+      "avgConcededA": 83.3,
+      "avgConcededB": 95.5,
+      "avgMarginA": 20.4,
+      "avgMarginB": 10.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.8,
+      "combinedGap": 13.7
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.5,
+      "avgScoredA": 92.1,
+      "avgScoredB": 97.5,
+      "avgConcededA": 96.4,
+      "avgConcededB": 95.3,
+      "avgMarginA": 9.5,
+      "avgMarginB": 17.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": 0.6
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.8,
+      "avgScoredA": 94.9,
+      "avgScoredB": 102.4,
+      "avgConcededA": 93.5,
+      "avgConcededB": 93.4,
+      "avgMarginA": 12.5,
+      "avgMarginB": 16.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 9
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.5,
+      "avgScoredA": 78.5,
+      "avgScoredB": 75.4,
+      "avgConcededA": 82.6,
+      "avgConcededB": 76.1,
+      "avgMarginA": 8,
+      "avgMarginB": 8.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": 5.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 88.4,
+      "avgScoredB": 75.9,
+      "avgConcededA": 84.5,
+      "avgConcededB": 80.1,
+      "avgMarginA": 9.6,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.73,
+      "combinedGap": 15
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 86.7,
+      "avgScoredB": 88.4,
+      "avgConcededA": 80.8,
+      "avgConcededB": 89,
+      "avgMarginA": 12.2,
+      "avgMarginB": 23.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 5
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.8,
+      "avgScoredA": 79,
+      "avgScoredB": 94.8,
+      "avgConcededA": 85.7,
+      "avgConcededB": 86,
+      "avgMarginA": 3.5,
+      "avgMarginB": 15.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -6.3
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.2,
+      "avgScoredA": 82.8,
+      "avgScoredB": 86.3,
+      "avgConcededA": 86.3,
+      "avgConcededB": 92.2,
+      "avgMarginA": 8.8,
+      "avgMarginB": 2.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.38,
+      "combinedGap": -5.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.5,
+      "avgScoredA": 81.3,
+      "avgScoredB": 80.2,
+      "avgConcededA": 84.8,
+      "avgConcededB": 81.1,
+      "avgMarginA": 17,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.29,
+      "combinedGap": 5.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.4,
+      "avgScoredA": 89.4,
+      "avgScoredB": 79.1,
+      "avgConcededA": 67.9,
+      "avgConcededB": 77.8,
+      "avgMarginA": 24.7,
+      "avgMarginB": 17.3,
+      "isHomeTeam": 1,
+      "momentumScore": 1.18,
+      "combinedGap": 33.8
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 77,
+      "avgScoredB": 69.1,
+      "avgConcededA": 73.2,
+      "avgConcededB": 82.4,
+      "avgMarginA": 17,
+      "avgMarginB": 5.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.53,
+      "combinedGap": 3.1
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 83.7,
+      "avgScoredB": 82.6,
+      "avgConcededA": 74.7,
+      "avgConcededB": 78.3,
+      "avgMarginA": 17.3,
+      "avgMarginB": 23.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.78,
+      "combinedGap": 17.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.6,
+      "avgScoredA": 82.7,
+      "avgScoredB": 86.9,
+      "avgConcededA": 73.1,
+      "avgConcededB": 76.4,
+      "avgMarginA": 17.9,
+      "avgMarginB": 24,
+      "isHomeTeam": 1,
+      "momentumScore": 0.79,
+      "combinedGap": 18.8
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.3,
+      "avgScoredA": 76.8,
+      "avgScoredB": 75.9,
+      "avgConcededA": 86.2,
+      "avgConcededB": 79.6,
+      "avgMarginA": 9.3,
+      "avgMarginB": 20,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": 0
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 1,
+      "winRateB": 0.5,
+      "avgScoredA": 92,
+      "avgScoredB": 79.3,
+      "avgConcededA": 76.8,
+      "avgConcededB": 79.2,
+      "avgMarginA": 15.2,
+      "avgMarginB": 16.2,
+      "isHomeTeam": 1,
+      "momentumScore": 1.2,
+      "combinedGap": 28
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 73.5,
+      "avgScoredB": 84.2,
+      "avgConcededA": 78.5,
+      "avgConcededB": 74.1,
+      "avgMarginA": 11.4,
+      "avgMarginB": 18.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.47,
+      "combinedGap": 5.1
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.2,
+      "avgScoredA": 70.5,
+      "avgScoredB": 76,
+      "avgConcededA": 68.9,
+      "avgConcededB": 83.2,
+      "avgMarginA": 12.2,
+      "avgMarginB": 9.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": -6.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.1,
+      "winRateB": 0.7,
+      "avgScoredA": 74.5,
+      "avgScoredB": 74.3,
+      "avgConcededA": 86.1,
+      "avgConcededB": 68.6,
+      "avgMarginA": 13,
+      "avgMarginB": 12.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.09,
+      "combinedGap": 7.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 1,
+      "winRateB": 0.2,
+      "avgScoredA": 87.7,
+      "avgScoredB": 73.6,
+      "avgConcededA": 69.5,
+      "avgConcededB": 79.5,
+      "avgMarginA": 18.2,
+      "avgMarginB": 16.5,
+      "isHomeTeam": 1,
+      "momentumScore": 1.26,
+      "combinedGap": 26.4
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 83,
+      "avgScoredB": 76.4,
+      "avgConcededA": 80.5,
+      "avgConcededB": 75,
+      "avgMarginA": 13.2,
+      "avgMarginB": 8.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 14.6
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 70.9,
+      "avgScoredB": 78.7,
+      "avgConcededA": 79.9,
+      "avgConcededB": 78.6,
+      "avgMarginA": 5.7,
+      "avgMarginB": 12.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": -6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.8,
+      "avgScoredA": 64.9,
+      "avgScoredB": 85.5,
+      "avgConcededA": 78.5,
+      "avgConcededB": 70.5,
+      "avgMarginA": 0,
+      "avgMarginB": 20.9,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": -5.6
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.6,
+      "avgScoredA": 80,
+      "avgScoredB": 82.8,
+      "avgConcededA": 86.4,
+      "avgConcededB": 80.3,
+      "avgMarginA": 8.2,
+      "avgMarginB": 12.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.46,
+      "combinedGap": 3.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 79.2,
+      "avgScoredB": 85.8,
+      "avgConcededA": 80.4,
+      "avgConcededB": 85.2,
+      "avgMarginA": 7,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": -2.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.5,
+      "avgScoredA": 69.7,
+      "avgScoredB": 81.9,
+      "avgConcededA": 76,
+      "avgConcededB": 79,
+      "avgMarginA": 23,
+      "avgMarginB": 16.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -4.7
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.9,
+      "avgScoredA": 76.5,
+      "avgScoredB": 80.2,
+      "avgConcededA": 75.8,
+      "avgConcededB": 69.3,
+      "avgMarginA": 6.4,
+      "avgMarginB": 13,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 10.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.8,
+      "avgScoredA": 77,
+      "avgScoredB": 80.3,
+      "avgConcededA": 74.1,
+      "avgConcededB": 74.4,
+      "avgMarginA": 11.8,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.62,
+      "combinedGap": 9.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.1,
+      "avgScoredA": 82.8,
+      "avgScoredB": 69.3,
+      "avgConcededA": 76.5,
+      "avgConcededB": 82.2,
+      "avgMarginA": 14,
+      "avgMarginB": 6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.76,
+      "combinedGap": 10.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.7,
+      "avgScoredA": 76.8,
+      "avgScoredB": 81.4,
+      "avgConcededA": 68.7,
+      "avgConcededB": 72.1,
+      "avgMarginA": 12.1,
+      "avgMarginB": 18.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.89,
+      "combinedGap": 14.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 74.2,
+      "avgScoredB": 78,
+      "avgConcededA": 81.4,
+      "avgConcededB": 70.1,
+      "avgMarginA": 4.3,
+      "avgMarginB": 16.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.36,
+      "combinedGap": 5.8
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.6,
+      "avgScoredA": 70.9,
+      "avgScoredB": 77.5,
+      "avgConcededA": 80.6,
+      "avgConcededB": 73.1,
+      "avgMarginA": 6,
+      "avgMarginB": 13,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -1
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 78.1,
+      "avgScoredB": 70.3,
+      "avgConcededA": 84,
+      "avgConcededB": 73,
+      "avgMarginA": 12.3,
+      "avgMarginB": 10,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 8.8
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 85.7,
+      "avgScoredB": 83.4,
+      "avgConcededA": 84.1,
+      "avgConcededB": 80,
+      "avgMarginA": 21.7,
+      "avgMarginB": 10.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.31,
+      "combinedGap": 12.2
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 101,
+      "avgScoredB": 106.9,
+      "avgConcededA": 102.1,
+      "avgConcededB": 100.1,
+      "avgMarginA": 6.8,
+      "avgMarginB": 12.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": 4.3
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.6,
+      "avgScoredA": 120,
+      "avgScoredB": 117.8,
+      "avgConcededA": 113.8,
+      "avgConcededB": 106,
+      "avgMarginA": 11.7,
+      "avgMarginB": 25,
+      "isHomeTeam": 1,
+      "momentumScore": 0.74,
+      "combinedGap": 22.2
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.6,
+      "avgScoredA": 90.8,
+      "avgScoredB": 87.6,
+      "avgConcededA": 78.7,
+      "avgConcededB": 85.8,
+      "avgMarginA": 13.6,
+      "avgMarginB": 10.5,
+      "isHomeTeam": 1,
+      "momentumScore": 1.04,
+      "combinedGap": 17.2
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.6,
+      "avgScoredA": 96,
+      "avgScoredB": 90,
+      "avgConcededA": 89.8,
+      "avgConcededB": 88.9,
+      "avgMarginA": 13.8,
+      "avgMarginB": 7.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 15.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 97.2,
+      "avgScoredB": 93.3,
+      "avgConcededA": 86.5,
+      "avgConcededB": 97.3,
+      "avgMarginA": 16.4,
+      "avgMarginB": 9.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.9,
+      "combinedGap": 13
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.1,
+      "avgScoredA": 92.9,
+      "avgScoredB": 77.7,
+      "avgConcededA": 96,
+      "avgConcededB": 88.5,
+      "avgMarginA": 9.2,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.48,
+      "combinedGap": 9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.7,
+      "avgScoredA": 76.3,
+      "avgScoredB": 79.1,
+      "avgConcededA": 68.8,
+      "avgConcededB": 71.2,
+      "avgMarginA": 12.8,
+      "avgMarginB": 19.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.89,
+      "combinedGap": 15.3
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.5,
+      "avgScoredA": 80.3,
+      "avgScoredB": 79,
+      "avgConcededA": 78.4,
+      "avgConcededB": 79.9,
+      "avgMarginA": 9.5,
+      "avgMarginB": 13.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.61,
+      "combinedGap": 6.1
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 83.3,
+      "avgScoredB": 83.4,
+      "avgConcededA": 77.6,
+      "avgConcededB": 75.8,
+      "avgMarginA": 20,
+      "avgMarginB": 16.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.54,
+      "combinedGap": 17.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.7,
+      "avgScoredA": 82.2,
+      "avgScoredB": 87.5,
+      "avgConcededA": 82.1,
+      "avgConcededB": 79.2,
+      "avgMarginA": 12,
+      "avgMarginB": 16.1,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 80.4,
+      "avgScoredB": 96.1,
+      "avgConcededA": 72.1,
+      "avgConcededB": 84,
+      "avgMarginA": 12.1,
+      "avgMarginB": 23.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.89,
+      "combinedGap": 6.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.4,
+      "avgScoredA": 91.4,
+      "avgScoredB": 76.3,
+      "avgConcededA": 76.6,
+      "avgConcededB": 88,
+      "avgMarginA": 24.6,
+      "avgMarginB": 8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.84,
+      "combinedGap": 20.6
+    },
+    "output": "21-25"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 73.1,
+      "avgScoredB": 70.2,
+      "avgConcededA": 65.9,
+      "avgConcededB": 70.3,
+      "avgMarginA": 20.4,
+      "avgMarginB": 16.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.55,
+      "combinedGap": 13
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 83.7,
+      "avgScoredB": 82.6,
+      "avgConcededA": 74.7,
+      "avgConcededB": 78.3,
+      "avgMarginA": 17.3,
+      "avgMarginB": 23.2,
+      "isHomeTeam": 1,
+      "momentumScore": 0.78,
+      "combinedGap": 17.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 83,
+      "avgScoredB": 90.8,
+      "avgConcededA": 83,
+      "avgConcededB": 92.4,
+      "avgMarginA": 12,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": -3.4
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 89.4,
+      "avgScoredB": 76.1,
+      "avgConcededA": 86.3,
+      "avgConcededB": 82.4,
+      "avgMarginA": 12.2,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.52,
+      "combinedGap": 13.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.3,
+      "avgScoredA": 79.8,
+      "avgScoredB": 83.4,
+      "avgConcededA": 79,
+      "avgConcededB": 83.8,
+      "avgMarginA": 11.8,
+      "avgMarginB": 18.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.51,
+      "combinedGap": 1.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.3,
+      "avgScoredA": 84.1,
+      "avgScoredB": 75.5,
+      "avgConcededA": 83.6,
+      "avgConcededB": 80.9,
+      "avgMarginA": 6.7,
+      "avgMarginB": 7.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": 7.2
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.3,
+      "avgScoredA": 83.5,
+      "avgScoredB": 85.3,
+      "avgConcededA": 86,
+      "avgConcededB": 89.1,
+      "avgMarginA": 8.8,
+      "avgMarginB": 9.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.49,
+      "combinedGap": -1.2
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.5,
+      "avgScoredA": 91.3,
+      "avgScoredB": 88.8,
+      "avgConcededA": 88.4,
+      "avgConcededB": 85.7,
+      "avgMarginA": 12,
+      "avgMarginB": 15.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.72,
+      "combinedGap": 14
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.4,
+      "avgScoredA": 81.2,
+      "avgScoredB": 75.9,
+      "avgConcededA": 80.9,
+      "avgConcededB": 80.1,
+      "avgMarginA": 14.4,
+      "avgMarginB": 11,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 8.3
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.6,
+      "avgScoredA": 73.7,
+      "avgScoredB": 82.5,
+      "avgConcededA": 75.6,
+      "avgConcededB": 79.2,
+      "avgMarginA": 7.8,
+      "avgMarginB": 14,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": -2.4
+    },
+    "output": "unknown"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.3,
+      "avgScoredA": 94.7,
+      "avgScoredB": 86.2,
+      "avgConcededA": 82.5,
+      "avgConcededB": 90.9,
+      "avgMarginA": 23.6,
+      "avgMarginB": 14.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.8,
+      "combinedGap": 20.3
+    },
+    "output": "26-30"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.2,
+      "avgScoredA": 81.5,
+      "avgScoredB": 72.3,
+      "avgConcededA": 82.2,
+      "avgConcededB": 84.4,
+      "avgMarginA": 5.8,
+      "avgMarginB": 14.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.4,
+      "combinedGap": -0.6
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.5,
+      "winRateB": 0.5,
+      "avgScoredA": 81.1,
+      "avgScoredB": 83,
+      "avgConcededA": 81.8,
+      "avgConcededB": 74.7,
+      "avgMarginA": 10,
+      "avgMarginB": 21,
+      "isHomeTeam": 1,
+      "momentumScore": 0.5,
+      "combinedGap": 11.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.6,
+      "avgScoredA": 84.5,
+      "avgScoredB": 81.6,
+      "avgConcededA": 92.1,
+      "avgConcededB": 78.5,
+      "avgMarginA": 15,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": 9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.7,
+      "avgScoredA": 77.8,
+      "avgScoredB": 87.2,
+      "avgConcededA": 70.5,
+      "avgConcededB": 80,
+      "avgMarginA": 18.2,
+      "avgMarginB": 13.7,
+      "isHomeTeam": 1,
+      "momentumScore": 0.66,
+      "combinedGap": 8.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.7,
+      "avgScoredA": 82.2,
+      "avgScoredB": 87.9,
+      "avgConcededA": 79.6,
+      "avgConcededB": 80,
+      "avgMarginA": 16,
+      "avgMarginB": 13.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.41,
+      "combinedGap": 8.6
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.2,
+      "avgScoredA": 88.2,
+      "avgScoredB": 85.2,
+      "avgConcededA": 80.1,
+      "avgConcededB": 95.8,
+      "avgMarginA": 15.3,
+      "avgMarginB": 14.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.77,
+      "combinedGap": 3.1
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.2,
+      "avgScoredA": 82,
+      "avgScoredB": 81.9,
+      "avgConcededA": 92,
+      "avgConcededB": 92.9,
+      "avgMarginA": 11,
+      "avgMarginB": 9,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -8.7
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.6,
+      "avgScoredA": 82.8,
+      "avgScoredB": 86.9,
+      "avgConcededA": 78.2,
+      "avgConcededB": 79,
+      "avgMarginA": 8.1,
+      "avgMarginB": 20.5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.85,
+      "combinedGap": 10.3
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0.1,
+      "avgScoredA": 83.9,
+      "avgScoredB": 70,
+      "avgConcededA": 77.6,
+      "avgConcededB": 83.6,
+      "avgMarginA": 9.3,
+      "avgMarginB": 3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.86,
+      "combinedGap": 7.7
+    },
+    "output": "11-15"
+  },
+  {
+    "input": {
+      "winRateA": 0.9,
+      "winRateB": 0.5,
+      "avgScoredA": 83.2,
+      "avgScoredB": 79.6,
+      "avgConcededA": 67.1,
+      "avgConcededB": 78.9,
+      "avgMarginA": 18.7,
+      "avgMarginB": 7,
+      "isHomeTeam": 1,
+      "momentumScore": 1.12,
+      "combinedGap": 21.1
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.7,
+      "avgScoredA": 74.8,
+      "avgScoredB": 84.7,
+      "avgConcededA": 81.6,
+      "avgConcededB": 82.5,
+      "avgMarginA": 6.5,
+      "avgMarginB": 6.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.18,
+      "combinedGap": -6.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.4,
+      "avgScoredA": 83.1,
+      "avgScoredB": 81.4,
+      "avgConcededA": 88.8,
+      "avgConcededB": 83.9,
+      "avgMarginA": 7.3,
+      "avgMarginB": 5.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.28,
+      "combinedGap": 1.4
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.7,
+      "winRateB": 0.6,
+      "avgScoredA": 91.4,
+      "avgScoredB": 87.4,
+      "avgConcededA": 80.7,
+      "avgConcededB": 81.3,
+      "avgMarginA": 20.4,
+      "avgMarginB": 15.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.79,
+      "combinedGap": 24.4
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.2,
+      "avgScoredA": 80.8,
+      "avgScoredB": 79,
+      "avgConcededA": 81.3,
+      "avgConcededB": 93.5,
+      "avgMarginA": 10.3,
+      "avgMarginB": 10,
+      "isHomeTeam": 1,
+      "momentumScore": 0.6,
+      "combinedGap": -6.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.2,
+      "winRateB": 0.5,
+      "avgScoredA": 74.6,
+      "avgScoredB": 79.2,
+      "avgConcededA": 86.5,
+      "avgConcededB": 84.2,
+      "avgMarginA": 10.5,
+      "avgMarginB": 13.4,
+      "isHomeTeam": 1,
+      "momentumScore": 0.17,
+      "combinedGap": -7.5
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0,
+      "winRateB": 0.4,
+      "avgScoredA": 71.7,
+      "avgScoredB": 74.8,
+      "avgConcededA": 84.9,
+      "avgConcededB": 81.2,
+      "avgMarginA": 0,
+      "avgMarginB": 12,
+      "isHomeTeam": 1,
+      "momentumScore": 0,
+      "combinedGap": -9.5
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 80.1,
+      "avgScoredB": 84.9,
+      "avgConcededA": 90.5,
+      "avgConcededB": 79.9,
+      "avgMarginA": 10,
+      "avgMarginB": 13.6,
+      "isHomeTeam": 1,
+      "momentumScore": 0.27,
+      "combinedGap": 3.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.14,
+      "avgScoredA": 67.9,
+      "avgScoredB": 65.7,
+      "avgConcededA": 66,
+      "avgConcededB": 79,
+      "avgMarginA": 14.3,
+      "avgMarginB": 5,
+      "isHomeTeam": 1,
+      "momentumScore": 0.41,
+      "combinedGap": -5.4
+    },
+    "output": "6-10"
+  },
+  {
+    "input": {
+      "winRateA": 0.4,
+      "winRateB": 0.8,
+      "avgScoredA": 81.2,
+      "avgScoredB": 90.7,
+      "avgConcededA": 82.3,
+      "avgConcededB": 78.5,
+      "avgMarginA": 11.3,
+      "avgMarginB": 16.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.39,
+      "combinedGap": 7.2
+    },
+    "output": "16-20"
+  },
+  {
+    "input": {
+      "winRateA": 0.6,
+      "winRateB": 0.5,
+      "avgScoredA": 96.5,
+      "avgScoredB": 91.4,
+      "avgConcededA": 90.2,
+      "avgConcededB": 90,
+      "avgMarginA": 15.7,
+      "avgMarginB": 14.8,
+      "isHomeTeam": 1,
+      "momentumScore": 0.64,
+      "combinedGap": 15.9
+    },
+    "output": "1-5"
+  },
+  {
+    "input": {
+      "winRateA": 0.8,
+      "winRateB": 0,
+      "avgScoredA": 93.2,
+      "avgScoredB": 80,
+      "avgConcededA": 85,
+      "avgConcededB": 93.8,
+      "avgMarginA": 17.1,
+      "avgMarginB": 0,
+      "isHomeTeam": 1,
+      "momentumScore": 0.88,
+      "combinedGap": 13.1
+    },
+    "output": "31+"
+  },
+  {
+    "input": {
+      "winRateA": 0.3,
+      "winRateB": 0.7,
+      "avgScoredA": 82.8,
+      "avgScoredB": 89.7,
+      "avgConcededA": 77.2,
+      "avgConcededB": 84.7,
+      "avgMarginA": 31.7,
+      "avgMarginB": 12.3,
+      "isHomeTeam": 1,
+      "momentumScore": 0.32,
+      "combinedGap": 7.6
+    },
+    "output": "6-10"
+  }
+]
